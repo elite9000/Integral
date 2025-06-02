@@ -84,3 +84,16 @@
 [16:04:14] [Server thread/INFO]: [Not Secure] <Luiing_Blue> rogandole
 [16:04:49] [Server thread/WARN]: elite9007 moved wrongly!
 [16:09:04] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=37, y=65, z=-672} iw{x=32, y=56, z=-622}
+[16:14:48] [Server thread/INFO]: elite9007 lost connection: Timed out
+[16:14:48] [Server thread/INFO]: elite9007 left the game
+[16:14:48] [Server thread/WARN]: handleDisconnection() called twice
+[16:17:08] [Server thread/INFO]: elite9007[/100.88.155.70:49934] logged in with entity id 14849 at (975.4015740725291, 82.875, -532.3000000119209)
+[16:17:08] [Server thread/INFO]: elite9007 joined the game
+[16:18:22] [Server thread/INFO]: elite9007 lost connection: Disconnected
+[16:18:22] [Server thread/INFO]: elite9007 left the game
+[16:18:44] [Server thread/INFO]: elite9007[/100.82.238.102:41310] logged in with entity id 15289 at (970.3243786253424, 82.875, -537.2376028225751)
+[16:18:44] [Server thread/INFO]: elite9007 joined the game
+[16:19:18] [Server thread/INFO]: elite9007 lost connection: Disconnected
+[16:19:18] [Server thread/INFO]: elite9007 left the game
+[16:19:32] [Server thread/INFO]: elite9007[/100.88.155.70:49989] logged in with entity id 15613 at (969.651835523584, 81.875, -535.4037286046809)
+[16:19:32] [Server thread/INFO]: elite9007 joined the game
