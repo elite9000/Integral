@@ -4295,5 +4295,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_nether_gold_ore": {
+    "criteria": {
+      "has_nether_gold_ore": "2025-06-02 16:26:02 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 4325
 }
