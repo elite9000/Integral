@@ -4312,5 +4312,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gray_dye_from_closed_eyeblossom": {
+    "criteria": {
+      "has_closed_eyeblossom": "2025-06-02 20:19:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_closed_eyeblossom": {
+    "criteria": {
+      "has_closed_eyeblossom": "2025-06-02 20:19:45 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 4325
 }
