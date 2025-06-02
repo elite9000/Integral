@@ -42,3 +42,6 @@
 [17:36:16] [Server thread/WARN]: Luiing_Blue moved too quickly! -17.357702493818124,-1.9156630637259724,-5.142068381892443
 [17:42:19] [Server thread/WARN]: Luiing_Blue moved too quickly! 17.117632825294663,0.26442216684372966,7.730029070899263
 [17:47:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2147ms or 42 ticks behind
+[17:49:31] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[17:49:31] [Server thread/INFO]: Found that the dragon has been killed in this world already.
+[17:52:09] [Server thread/WARN]: Luiing_Blue moved wrongly!
