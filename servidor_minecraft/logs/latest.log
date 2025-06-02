@@ -1,42 +1,172 @@
-[18:03:19] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[18:03:25] [ServerMain/INFO]: Loaded 1373 recipes
-[18:03:25] [ServerMain/INFO]: Loaded 1484 advancements
-[18:03:26] [Server thread/INFO]: Starting minecraft server version 1.21.5
-[18:03:26] [Server thread/INFO]: Loading properties
-[18:03:26] [Server thread/INFO]: Default game type: SURVIVAL
-[18:03:26] [Server thread/INFO]: Generating keypair
-[18:03:26] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:03:26] [Server thread/INFO]: Using epoll channel type
-[18:03:26] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[18:03:26] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[18:03:26] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[18:03:26] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[18:03:26] [Server thread/INFO]: Preparing level "INTEGRAL"
-[18:03:27] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[18:03:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:03:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:03:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:03:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:03:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:03:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:03:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:03:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:03:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:03:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:03:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:03:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:03:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:03:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:03:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:03:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:03:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:03:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:03:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:03:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:03:37] [Server thread/INFO]: Time elapsed: 10089 ms
-[18:03:37] [Server thread/INFO]: Done (10.969s)! For help, type "help"
-[18:03:53] [Server thread/INFO]: Luiing_Blue[/100.109.71.109:56384] logged in with entity id 14 at (15.518015505815356, 97.0, 37.74303937799273)
-[18:03:54] [Server thread/INFO]: Luiing_Blue joined the game
-[18:03:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2147ms or 42 ticks behind
-[18:18:33] [Server thread/WARN]: Luiing_Blue moved too quickly! 0.7264912343329115,-10.867409983895072,-0.6813019371159612
-[18:23:47] [Server thread/WARN]: Luiing_Blue moved wrongly!
+[19:17:38] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[19:17:42] [ServerMain/INFO]: Loaded 1373 recipes
+[19:17:42] [ServerMain/INFO]: Loaded 1484 advancements
+[19:17:42] [Server thread/INFO]: Starting minecraft server version 1.21.5
+[19:17:42] [Server thread/INFO]: Loading properties
+[19:17:42] [Server thread/INFO]: Default game type: SURVIVAL
+[19:17:42] [Server thread/INFO]: Generating keypair
+[19:17:42] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:17:42] [Server thread/INFO]: Using epoll channel type
+[19:17:43] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:17:43] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:17:43] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:17:43] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:17:43] [Server thread/INFO]: Preparing level "INTEGRAL"
+[19:17:43] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:17:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:17:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:17:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:17:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:17:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:17:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:17:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:17:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:17:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:17:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:17:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:17:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:17:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:17:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:17:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:17:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:17:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:17:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:17:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:17:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:17:53] [Server thread/INFO]: Time elapsed: 9670 ms
+[19:17:53] [Server thread/INFO]: Done (10.071s)! For help, type "help"
+[19:18:23] [Server thread/INFO]: elite9007[/100.82.238.102:43708] logged in with entity id 13 at (975.131696439545, 83.0, -533.4284186036307)
+[19:18:23] [Server thread/INFO]: elite9007 joined the game
+[19:18:45] [Server thread/INFO]: elite9007 has completed the challenge [Subspace Bubble]
+[19:18:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19175ms or 383 ticks behind
+[19:19:38] [Server thread/INFO]: Luiing_Blue[/100.109.71.109:57357] logged in with entity id 603 at (-516.0460274991091, 53.0, -190.37431165480564)
+[19:19:38] [Server thread/INFO]: Luiing_Blue joined the game
+[19:19:39] [Server thread/WARN]: elite9007 moved too quickly! -16.401196670284662,7.7843629474351985,0.7691140425631602
+[19:20:03] [Server thread/WARN]: elite9007 moved too quickly! 6.761743795428629,10.106871679513375,12.626768312744389
+[19:20:06] [Server thread/WARN]: elite9007 moved too quickly! 3.861077689131889,11.819535841157546,12.170489102652027
+[19:20:09] [Server thread/WARN]: elite9007 moved too quickly! 3.7515410977102874,-0.3541834405746158,17.075932194539746
+[19:20:12] [Server thread/WARN]: elite9007 moved too quickly! 3.789128135822466,-0.24330385203487026,17.16606011816475
+[19:20:14] [Server thread/INFO]: [Not Secure] <Luiing_Blue> uy
+[19:20:19] [Server thread/WARN]: elite9007 moved too quickly! -7.40638121975644,-1.7936499002641426,17.14145384168978
+[19:20:36] [Server thread/INFO]: [Not Secure] <elite9007> njd estoy en 7k -3k
+[19:20:42] [Server thread/WARN]: elite9007 moved too quickly! -12.385024401221926,-2.8169627184957875,13.267779953751415
+[19:20:46] [Server thread/WARN]: elite9007 moved too quickly! -13.985462522447051,-3.116319671253052,12.36620570993
+[19:20:49] [Server thread/WARN]: elite9007 moved too quickly! -13.49867049657496,-3.199046244985553,11.934140826630482
+[19:21:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2446ms or 48 ticks behind
+[19:21:20] [Server thread/WARN]: elite9007 moved too quickly! -18.708906808883512,-1.8672319903686798,-0.7808611995583306
+[19:21:26] [Server thread/WARN]: elite9007 moved too quickly! -12.644585838679632,12.511421867963591,-1.1015102298197235
+[19:21:31] [Server thread/WARN]: elite9007 moved too quickly! -18.535595660529907,-1.7777414143848915,-0.9616454707793309
+[19:21:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[19:21:45] [Server thread/WARN]: elite9007 moved too quickly! -11.93790269136025,-1.422924926760345,13.939091927013578
+[19:21:51] [Server thread/WARN]: elite9007 moved too quickly! -11.66621363075592,-0.8967068474384519,12.900363026459218
+[19:21:52] [Server thread/INFO]: [Not Secure] <Luiing_Blue> KDJASLDKAJS
+[19:21:53] [Server thread/WARN]: elite9007 moved too quickly! -12.302641650322585,-0.44064027091016555,13.604117710925493
+[19:21:57] [Server thread/WARN]: elite9007 moved too quickly! -11.803434229563209,-0.1842789632696622,13.052099964885656
+[19:22:00] [Server thread/WARN]: elite9007 moved too quickly! -11.69680563750262,-2.087709477400381,12.93419131087694
+[19:22:04] [Server thread/WARN]: elite9007 moved too quickly! -11.44995646688767,-4.764425684056391,12.661228375813153
+[19:22:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2115ms or 42 ticks behind
+[19:22:05] [Server thread/INFO]: [Not Secure] <Luiing_Blue> hay que romper el techo del nether pa viajar por ahí
+[19:22:08] [Server thread/WARN]: elite9007 moved too quickly! -11.755982479342492,-0.8161464083511589,13.234244701763146
+[19:22:12] [Server thread/WARN]: elite9007 moved too quickly! -11.679234670560618,4.092506603193925,13.471452771281747
+[19:22:15] [Server thread/WARN]: elite9007 moved too quickly! -11.075915999306744,-2.321404639937981,13.36121192806604
+[19:22:16] [Server thread/WARN]: elite9007 moved too quickly! -11.78474959385403,-2.4978321231859297,14.216299297731439
+[19:22:21] [Server thread/WARN]: elite9007 moved too quickly! -15.376561800540003,-4.532450134301911,7.068610545813954
+[19:22:24] [Server thread/WARN]: elite9007 moved too quickly! -15.103808848418339,-2.1234866845091602,8.330475355197905
+[19:22:27] [Server thread/WARN]: elite9007 moved wrongly!
+[19:22:35] [Server thread/WARN]: elite9007 moved too quickly! -15.756213746887624,-1.6783515005890024,7.20392127002242
+[19:22:42] [Server thread/WARN]: Luiing_Blue moved too quickly! 5.406486006309478,1.2531519182710866,-16.642439156398524
+[19:22:42] [Server thread/WARN]: elite9007 moved too quickly! -9.357434445495528,8.651835006568575,13.85289760192245
+[19:22:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2550ms or 51 ticks behind
+[19:22:47] [Server thread/WARN]: elite9007 moved too quickly! -11.121203464966129,4.75938245272593,12.794105280892836
+[19:22:51] [Server thread/INFO]: [Not Secure] <Luiing_Blue> vrg estas cargando una cantidad de chunks
+[19:22:52] [Server thread/WARN]: elite9007 moved too quickly! -12.665707970258154,0.5871362488038017,12.99168937201739
+[19:22:58] [Server thread/INFO]: [Not Secure] <Luiing_Blue> anda re lagueada la base
+[19:23:00] [Server thread/WARN]: elite9007 moved too quickly! -12.412760292412713,-0.5552710799272518,12.732231498388956
+[19:23:02] [Server thread/INFO]: [Not Secure] <elite9007> estoy volando pa la casa
+[19:23:04] [Server thread/INFO]: [Not Secure] <elite9007> KJASDJKASJKDAJKSDJK
+[19:23:09] [Server thread/INFO]: [Not Secure] <Luiing_Blue> JDAHSLDJASKLD
+[19:23:12] [Server thread/WARN]: elite9007 moved too quickly! -12.56290277194421,-0.26892742397652114,12.886238243231674
+[19:23:12] [Server thread/INFO]: [Not Secure] <elite9007> ta esto en 5k
+[19:23:14] [Server thread/INFO]: [Not Secure] <Luiing_Blue> no cargan los chunks del lag
+[19:23:22] [Server thread/WARN]: elite9007 moved too quickly! -16.24725507176845,-1.5992320365670594,8.78436882743108
+[19:23:38] [Server thread/INFO]: [Not Secure] <elite9007> joa pero está cargando cule rapido
+[19:24:21] [Server thread/INFO]: [Not Secure] <Luiing_Blue> y a mi cule lento
+[19:24:23] [Server thread/WARN]: elite9007 moved too quickly! -10.75034642306673,-2.1502237569486056,14.056448464347795
+[19:24:23] [Server thread/INFO]: [Not Secure] <Luiing_Blue> KDASKDJASKDJASD
+[19:24:35] [Server thread/WARN]: elite9007 moved too quickly! -10.566789670734579,-0.5208887693055715,14.075678807287431
+[19:24:37] [Server thread/INFO]: [Not Secure] <Luiing_Blue> sabes que vamos a hacer?
+[19:24:40] [Server thread/WARN]: elite9007 moved too quickly! -6.963042114070959,10.28757516811126,12.306792514161089
+[19:24:40] [Server thread/INFO]: [Not Secure] <Luiing_Blue> el endertp
+[19:24:41] [Server thread/INFO]: [Not Secure] <elite9007> q
+[19:24:42] [Server thread/WARN]: elite9007 moved too quickly! -7.60026957925038,-7.645319221703204,15.851873677154572
+[19:24:46] [Server thread/INFO]: [Not Secure] <elite9007> erda real
+[19:25:01] [Server thread/INFO]: [Not Secure] <elite9007> no estarìa volando mas de 7k bloques
+[19:25:04] [Server thread/INFO]: [Not Secure] <Luiing_Blue> real
+[19:25:27] [Server thread/WARN]: elite9007 moved too quickly! -8.658625343480708,13.80597509064367,7.731713838670657
+[19:25:27] [Server thread/INFO]: [Not Secure] <Luiing_Blue> KDJASLDJASKDASJD
+[19:25:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2113ms or 42 ticks behind
+[19:25:30] [Server thread/WARN]: elite9007 moved too quickly! -11.800057353667398,-1.1234476832231337,12.988978886625091
+[19:25:33] [Server thread/INFO]: [Not Secure] <Luiing_Blue> SE ME DUPLICO LA OBSIADANA POR EL CRASH
+[19:25:41] [Server thread/WARN]: elite9007 moved too quickly! -12.338227722657393,-1.167049676525835,12.588393060711496
+[19:25:44] [Server thread/INFO]: [Not Secure] <Luiing_Blue> Ahora tengo 14 stacks de obsidiana
+[19:25:47] [Server thread/INFO]: [Not Secure] <elite9007> AKJSDJKASJKDAJKSDJKASJKDASKJD
+[19:25:55] [Server thread/WARN]: elite9007 moved too quickly! -15.412649829878319,-1.911013842265504,9.260555888709632
+[19:26:02] [Server thread/WARN]: elite9007 moved too quickly! -15.971721316383082,-0.9179514023520312,7.289079072324057
+[19:26:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2116ms or 42 ticks behind
+[19:26:09] [Server thread/WARN]: elite9007 moved too quickly! -16.659417627855873,-1.5647831136102752,8.645150911027258
+[19:26:13] [Server thread/WARN]: elite9007 moved too quickly! -16.71345447855083,-1.5725863478879916,8.696382235287729
+[19:26:23] [Server thread/WARN]: elite9007 moved too quickly! -15.97147523626063,-1.6878671436485035,8.006413573536861
+[19:26:24] [Server thread/WARN]: elite9007 moved too quickly! -15.645329215800302,-1.754247814276738,7.952453080976511
+[19:26:29] [Server thread/WARN]: elite9007 moved too quickly! -16.551158256853796,-1.3525174018730297,7.140408090238452
+[19:26:32] [Server thread/WARN]: elite9007 moved too quickly! -16.519975721679202,-0.9797474995919231,6.896948298566485
+[19:26:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[19:26:39] [Server thread/WARN]: elite9007 moved too quickly! -14.065836567909628,-2.1658790376433927,10.854385710175507
+[19:26:52] [Server thread/WARN]: elite9007 moved too quickly! -11.781314889199166,-8.499413207950198,10.313099572998908
+[19:26:58] [Server thread/WARN]: elite9007 moved too quickly! -11.456953872766007,-2.162511348814462,12.93017753528909
+[19:27:00] [Server thread/WARN]: Luiing_Blue moved too quickly! 18.06035422895252,0.1850011805766627,0.735444745553167
+[19:27:05] [Server thread/WARN]: elite9007 moved too quickly! -10.736132831194936,-1.3962244783679978,14.21229872933634
+[19:28:49] [Server thread/INFO]: [Not Secure] <elite9007> me quedan 4 de durabilidad de las elitrasç
+[19:28:56] [Server thread/INFO]: [Not Secure] <Luiing_Blue> nojoda
+[19:28:57] [Server thread/INFO]: [Not Secure] <Luiing_Blue> KDJASKDJASKDJASD
+[19:29:49] [Server thread/INFO]: [Not Secure] <elite9007> ven a salvarme
+[19:29:55] [Server thread/INFO]: [Not Secure] <Luiing_Blue> where are you
+[19:29:58] [Server thread/INFO]: [Not Secure] <elite9007> estoy en 2300 -236
+[19:30:03] [Server thread/INFO]: [Not Secure] <Luiing_Blue> quedate ahi
+[19:30:04] [Server thread/INFO]: [Not Secure] <Luiing_Blue> ya vot
+[19:30:09] [Server thread/INFO]: [Not Secure] <Luiing_Blue> no avances
+[19:31:31] [Server thread/WARN]: Luiing_Blue moved too quickly! 17.47160696435492,-2.2310133600445,-0.14960120174043823
+[19:31:39] [Server thread/WARN]: Luiing_Blue moved too quickly! 18.440807732852704,-3.067642558239129,-0.14144200372439286
+[19:31:45] [Server thread/WARN]: Luiing_Blue moved too quickly! 17.339648674309842,-4.13208938418903,-1.4337519039114852
+[19:31:55] [Server thread/WARN]: Luiing_Blue moved too quickly! 18.45121594662487,-1.8841348611519209,-0.010059193972523417
+[19:32:21] [Server thread/INFO]: [Not Secure] <Luiing_Blue> ala
+[19:32:25] [Server thread/INFO]: [Not Secure] <Luiing_Blue> un pale garden
+[19:32:34] [Server thread/WARN]: Luiing_Blue moved too quickly! 17.739373565475034,-3.017113378916264,-0.8813614849351552
+[19:32:46] [Server thread/INFO]: [Not Secure] <elite9007> ya vienes?
+[19:32:49] [Server thread/INFO]: [Not Secure] <Luiing_Blue> ye
+[19:33:03] [Server thread/INFO]: [Not Secure] <elite9007> te morias y me cagaba de risa
+[19:33:06] [Server thread/INFO]: [Not Secure] <Luiing_Blue> DKASJKDAJSKDAJSD
+[19:33:33] [Server thread/INFO]: [Not Secure] <Luiing_Blue> pasemos por el pale
+[19:33:43] [Server thread/INFO]: [Not Secure] <elite9007> ?
+[19:33:53] [Server thread/INFO]: [Not Secure] <Luiing_Blue> encontre un bioma champiayer
+[19:34:02] [Server thread/WARN]: Luiing_Blue moved too quickly! -18.21357878512663,-0.5099364349786129,-0.6093081410010939
+[19:35:00] [Server thread/INFO]: [Not Secure] <Luiing_Blue> está meh la madera
+[19:35:03] [Server thread/WARN]: elite9007 moved too quickly! 3.1044062528317227,-16.597551624149077,5.983689831010508
+[19:35:45] [Server thread/INFO]: [Not Secure] <elite9007> CASI ME MATAS
+[19:35:48] [Server thread/INFO]: [Not Secure] <Luiing_Blue> kDKJASKDAJSKDASJDKASD
+[19:35:49] [Server thread/INFO]: [Not Secure] <Luiing_Blue> nojoda q
+[19:35:52] [Server thread/WARN]: Luiing_Blue moved too quickly! -18.218185543207113,-0.9704235532055634,-0.47812462246582754
+[19:35:58] [Server thread/WARN]: Luiing_Blue moved too quickly! -18.69195780728336,-1.8087898944475143,-0.14578886271374358
+[19:36:00] [Server thread/INFO]: [Not Secure] <elite9007> LLEGA
+[19:36:02] [Server thread/INFO]: [Not Secure] <Luiing_Blue> arco con mondacazo 5
+[19:36:02] [Server thread/INFO]: [Not Secure] <elite9007> ATRAS
+[19:36:13] [Server thread/INFO]: [Not Secure] <Luiing_Blue> ontas
+[19:36:20] [Server thread/INFO]: [Not Secure] <elite9007> acabo de perder el arco de mondacazo 5 tmb y no sé como
+[19:36:25] [Server thread/INFO]: [Not Secure] <Luiing_Blue> KDJASKDJASD
+[19:36:30] [Server thread/INFO]: [Not Secure] <elite9007> atrás
+[19:36:34] [Server thread/INFO]: [Not Secure] <Luiing_Blue> hielo?
+[19:36:35] [Server thread/INFO]: [Not Secure] <elite9007> donde me pegasel flechazo
+[19:36:41] [Server thread/WARN]: Luiing_Blue moved wrongly!
+[19:36:41] [Server thread/WARN]: Luiing_Blue moved wrongly!
+[19:36:44] [Server thread/INFO]: [Not Secure] <elite9007> un templo marino
+[19:37:29] [Server thread/INFO]: [Not Secure] <Luiing_Blue> casi me hacen monda
+[19:37:35] [Server thread/INFO]: [Not Secure] <elite9007> KAJSDKJAKSJD

@@ -48,7 +48,8 @@
       "minecraft:grove": "2025-06-01 20:07:33 +0000",
       "minecraft:meadow": "2025-04-19 19:02:30 +0000",
       "minecraft:savanna": "2025-05-26 05:47:29 +0000",
-      "minecraft:plains": "2025-04-19 18:33:49 +0000"
+      "minecraft:plains": "2025-04-19 18:33:49 +0000",
+      "minecraft:pale_garden": "2025-06-02 19:32:12 +0000"
     },
     "done": false
   },
@@ -4860,6 +4861,54 @@
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2025-06-01 20:13:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/black_bundle": {
+    "criteria": {
+      "has_black_dye": "2025-06-02 19:26:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-06-02 19:26:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_black_dye": "2025-06-02 19:26:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_black_dye": "2025-06-02 19:26:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_black_dye": "2025-06-02 19:26:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_candle": {
+    "criteria": {
+      "has_black_dye": "2025-06-02 19:26:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-06-02 19:26:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-06-02 19:26:27 +0000"
     },
     "done": true
   },
