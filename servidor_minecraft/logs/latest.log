@@ -169,3 +169,26 @@
 [21:08:59] [Server thread/INFO]: [Not Secure] <Luiing_Blue> asd
 [21:21:24] [Server thread/WARN]: Luiing_Blue moved too quickly! 7.663766338535424,-13.630475829222576,7.916637045344714
 [21:30:56] [Server thread/WARN]: Luiing_Blue moved wrongly!
+[21:49:54] [Server thread/INFO]: Luiing_Blue lost connection: Disconnected
+[21:49:54] [Server thread/INFO]: Luiing_Blue left the game
+[21:51:17] [Server thread/INFO]: elite9007[/100.82.238.102:47974] logged in with entity id 32043 at (-453.69999998807907, 65.0, -264.30000001192093)
+[21:51:17] [Server thread/INFO]: elite9007 joined the game
+[21:51:56] [Server thread/WARN]: elite9007 moved too quickly! 2.0880505663707254,-1.5624953599463822,-17.246882872443592
+[21:56:58] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-639, y=66, z=-192} iw{x=-638, y=65, z=-192}
+[21:56:58] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-639, y=66, z=-191} iw{x=-638, y=65, z=-192}
+[21:56:58] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-639, y=66, z=-191} iw{x=-638, y=65, z=-192}
+[21:56:58] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-639, y=66, z=-191} iw{x=-638, y=65, z=-192}
+[21:57:35] [Server thread/WARN]: elite9007 moved too quickly! -7.107879490903997,2.7091478003780765,6.529514084242692
+[21:57:35] [Server thread/INFO]: elite9007 lost connection: Disconnected
+[21:57:35] [Server thread/INFO]: elite9007 left the game
+[21:57:42] [Server thread/INFO]: Stopping the server
+[21:57:43] [Server thread/INFO]: Stopping server
+[21:57:43] [Server thread/INFO]: Saving players
+[21:57:43] [Server thread/INFO]: Saving worlds
+[21:57:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21:57:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[21:57:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[21:57:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (INTEGRAL): All chunks are saved
+[21:57:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:57:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:57:43] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
