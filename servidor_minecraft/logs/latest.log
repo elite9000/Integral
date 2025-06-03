@@ -250,3 +250,6 @@
 [20:58:53] [Server thread/WARN]: elite9007 moved wrongly!
 [20:58:53] [Server thread/WARN]: elite9007 moved wrongly!
 [20:59:12] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-452, y=62, z=-185} iw{x=-460, y=62, z=-176}
+[21:06:40] [Server thread/INFO]: elite9007 lost connection: Timed out
+[21:06:40] [Server thread/INFO]: elite9007 left the game
+[21:08:40] [Server thread/INFO]: Server empty for 120 seconds, pausing
