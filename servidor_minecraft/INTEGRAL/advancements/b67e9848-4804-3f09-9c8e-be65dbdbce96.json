@@ -5009,12 +5009,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gray_dye_from_closed_eyeblossom": {
-    "criteria": {
-      "has_closed_eyeblossom": "2025-06-02 20:19:42 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-06-02 20:15:40 +0000"
@@ -5039,6 +5033,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-06-02 20:15:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2025-06-02 20:15:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/orange_dye_from_open_eyeblossom": {
     "criteria": {
       "has_open_eyeblossom": "2025-06-02 20:18:23 +0000"
@@ -5051,15 +5057,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+  "minecraft:recipes/misc/gray_dye_from_closed_eyeblossom": {
     "criteria": {
-      "has_sandstone": "2025-06-02 20:15:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/sandstone_wall": {
-    "criteria": {
-      "has_sandstone": "2025-06-02 20:15:40 +0000"
+      "has_closed_eyeblossom": "2025-06-02 20:19:42 +0000"
     },
     "done": true
   },
