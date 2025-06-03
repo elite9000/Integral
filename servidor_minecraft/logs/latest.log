@@ -236,3 +236,12 @@
 [20:07:39] [Server thread/INFO]: [Not Secure] <elite9007> no hace un qlo
 [20:07:42] [Server thread/INFO]: [Not Secure] <elite9007> ya vengo
 [20:08:15] [Server thread/INFO]: [Not Secure] <Luiing_Blue> JHASKDJASD
+[20:15:02] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-496, y=51, z=-171} iw{x=-468, y=53, z=-162}
+[20:15:02] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-496, y=51, z=-171} iw{x=-468, y=53, z=-163}
+[20:15:02] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-496, y=51, z=-171} iw{x=-468, y=53, z=-163}
+[20:15:02] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-496, y=51, z=-171} iw{x=-468, y=53, z=-163}
+[20:17:23] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-490, y=52, z=-163} iw{x=-493, y=52, z=-183}
+[20:21:41] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-480, y=50, z=-162} iw{x=-478, y=47, z=-180}
+[20:21:41] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-480, y=50, z=-162} iw{x=-478, y=47, z=-180}
+[20:22:02] [Server thread/INFO]: Luiing_Blue lost connection: Disconnected
+[20:22:02] [Server thread/INFO]: Luiing_Blue left the game
