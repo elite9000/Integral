@@ -526,3 +526,5 @@
 [20:40:10] [Server thread/INFO]: [Not Secure] <elite9007> mano
 [20:40:20] [Server thread/INFO]: elite9007 lost connection: Disconnected
 [20:40:20] [Server thread/INFO]: elite9007 left the game
+[20:41:43] [Server thread/WARN]: Luiing_Blue moved wrongly!
+[20:48:37] [Server thread/INFO]: Villager cru['Villager'/453, l='ServerLevel[world]', x=-584.46, y=67.00, z=-343.58] died, message: 'Villager hit the ground too hard'
