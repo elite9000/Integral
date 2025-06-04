@@ -1,5 +1,5 @@
-[16:43:35] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[16:43:35] [ServerMain/ERROR]: Failed to start the minecraft server
+[17:15:21] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[17:15:21] [ServerMain/ERROR]: Failed to start the minecraft server
 azd$a: /workspaces/Integral/servidor_minecraft/./INTEGRAL/session.lock: already locked (possibly by other Minecraft instance?)
 	at azd$a.a(SourceFile:95) ~[server-1.21.5.jar:?]
 	at azd.a(SourceFile:41) ~[server-1.21.5.jar:?]
