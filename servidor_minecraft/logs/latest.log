@@ -223,3 +223,10 @@
 [18:37:07] [Server thread/INFO]: [Not Secure] <Luiing_Blue> ya vengo
 [18:37:08] [Server thread/INFO]: [Not Secure] <Luiing_Blue> almorzare
 [18:37:16] [Server thread/INFO]: [Not Secure] <elite9007> ok
+[18:40:03] [Server thread/WARN]: elite9007 moved wrongly!
+[18:40:03] [Server thread/WARN]: elite9007 moved wrongly!
+[18:40:04] [Server thread/WARN]: elite9007 moved wrongly!
+[18:41:22] [Server thread/WARN]: elite9007 moved wrongly!
+[18:46:31] [Server thread/WARN]: elite9007 moved wrongly!
+[18:46:53] [Server thread/INFO]: Villager cru['Fletcher'/185, l='ServerLevel[world]', x=-442.00, y=55.56, z=-267.47] died, message: 'Fletcher was shot by elite9007 using [EL MAMALON]'
+[18:49:10] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-445, y=56, z=-267} iw{x=-621, y=106, z=-330}
