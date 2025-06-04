@@ -531,3 +531,16 @@
 [21:06:03] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-508, y=63, z=-276} iw{x=-509, y=63, z=-276}
 [21:10:04] [Server thread/WARN]: Luiing_Blue moved wrongly!
 [21:20:12] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-556, y=62, z=-246} iw{x=-566, y=102, z=-339}
+[21:21:50] [Server thread/WARN]: Luiing_Blue moved wrongly!
+[21:22:37] [Server thread/WARN]: Luiing_Blue moved wrongly!
+[21:24:21] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-559, y=68, z=-271} iw{x=-566, y=82, z=-299}
+[21:24:32] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-566, y=81, z=-299} iw{x=-566, y=89, z=-307}
+[21:25:27] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-566, y=99, z=-317} iw{x=-553, y=63, z=-271}
+[21:26:56] [Server thread/WARN]: Luiing_Blue moved wrongly!
+[21:27:03] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-453, y=57, z=-269} iw{x=-509, y=63, z=-276}
+[21:27:05] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-510, y=62, z=-276} iw{x=-508, y=63, z=-276}
+[21:31:12] [Server thread/INFO]: Villager cru['Villager'/486, l='ServerLevel[world]', x=-594.49, y=71.00, z=-343.86] died, message: 'Villager hit the ground too hard'
+[21:31:29] [Server thread/WARN]: Luiing_Blue moved wrongly!
+[21:31:29] [Server thread/WARN]: Luiing_Blue moved wrongly!
+[21:32:22] [Server thread/INFO]: Villager cru['Villager'/558, l='ServerLevel[world]', x=-615.49, y=86.17, z=-333.60] died, message: 'Villager tried to swim in lava'
+[21:38:03] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-678, y=77, z=-226} iw{x=-677, y=77, z=-225}
