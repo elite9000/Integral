@@ -230,3 +230,5 @@
 [18:46:31] [Server thread/WARN]: elite9007 moved wrongly!
 [18:46:53] [Server thread/INFO]: Villager cru['Fletcher'/185, l='ServerLevel[world]', x=-442.00, y=55.56, z=-267.47] died, message: 'Fletcher was shot by elite9007 using [EL MAMALON]'
 [18:49:10] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-445, y=56, z=-267} iw{x=-621, y=106, z=-330}
+[18:53:09] [Server thread/INFO]: geronimo has made the advancement [Cover Me with Diamonds]
+[18:58:57] [Server thread/INFO]: Villager cru['Fletcher'/82, l='ServerLevel[world]', x=-451.76, y=60.00, z=-261.42] died, message: 'Fletcher was shot by elite9007 using [EL MAMALON]'
