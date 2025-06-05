@@ -337,12 +337,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cake": {
-    "criteria": {
-      "has_egg": "2025-06-05 18:21:59 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2025-06-05 18:13:11 +0000"
@@ -358,6 +352,24 @@
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-06-05 18:16:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-06-05 18:21:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-06-05 19:33:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2025-06-05 19:33:24 +0000"
     },
     "done": true
   },
