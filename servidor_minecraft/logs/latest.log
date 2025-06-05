@@ -407,3 +407,7 @@ io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/min
 [20:06:09] [Server thread/INFO]: [Not Secure] <Luiing_Blue> ah que esta parado el pillager
 [20:06:12] [Server thread/INFO]: [Not Secure] <Luiing_Blue> me asustè coño
 [20:06:13] [Server thread/INFO]: [Not Secure] <elite9007> sisa
+[20:06:20] [Server thread/INFO]: [Not Secure] <Luiing_Blue> pense que lo iba a matar
+[20:06:51] [Server thread/INFO]: geronimo was slain by Zombie
+[20:13:06] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-601, y=106, z=-283} iw{x=-598, y=106, z=-284}
+[20:14:01] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-602, y=106, z=-283} iw{x=-609, y=106, z=-273}
