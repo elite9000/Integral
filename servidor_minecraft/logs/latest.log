@@ -273,3 +273,8 @@ io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/min
 [18:52:01] [Server thread/INFO]: elite9007[/100.88.155.70:50037] logged in with entity id 53536 at (-550.4088618639407, 63.0, -238.92632393219486)
 [18:52:01] [Server thread/INFO]: elite9007 joined the game
 [18:55:10] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-602, y=106, z=-286} iw{x=-609, y=110, z=-282}
+[18:55:47] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-602, y=106, z=-286} iw{x=-608, y=109, z=-282}
+[19:02:17] [Server thread/INFO]: elite9007 lost connection: Timed out
+[19:02:17] [Server thread/INFO]: elite9007 left the game
+[19:05:31] [Server thread/INFO]: elite9007[/100.88.155.70:49990] logged in with entity id 58214 at (-608.0166268097594, 103.0, -283.9988692152498)
+[19:05:31] [Server thread/INFO]: elite9007 joined the game
