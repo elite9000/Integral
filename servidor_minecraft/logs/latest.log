@@ -195,3 +195,9 @@ io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/min
 [18:03:59] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-604, y=107, z=-281} iw{x=-475, y=36, z=-158}
 [18:03:59] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-604, y=107, z=-281} iw{x=-475, y=36, z=-158}
 [18:03:59] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-604, y=107, z=-281} iw{x=-475, y=36, z=-158}
+[18:12:21] [Server thread/INFO]: geronimo[/100.82.238.102:43600] logged in with entity id 37014 at (-539.6999999880791, 58.0, -248.58339032406423)
+[18:12:21] [Server thread/INFO]: geronimo joined the game
+[18:15:47] [Server thread/INFO]: [Not Secure] <geronimo> 5g777555qwwwwwwww2qqqqqwwww
+[18:17:43] [Server thread/INFO]: elite9007 lost connection: Disconnected
+[18:17:43] [Server thread/INFO]: elite9007 left the game
+[18:17:43] [Server thread/WARN]: handleDisconnection() called twice
