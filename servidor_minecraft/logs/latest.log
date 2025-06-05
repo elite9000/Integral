@@ -81,3 +81,4 @@
 [17:08:28] [Server thread/INFO]: [Not Secure] <elite9007> eso es monda que no va a funcionar esto
 [17:08:37] [Server thread/INFO]: [Not Secure] <Luiing_Blue> funciona porque funciona esa kga
 [17:09:12] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-605, y=98, z=-285} iw{x=-603, y=103, z=-285}
+[17:21:09] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-605, y=102, z=-282} iw{x=-602, y=105, z=-283}
