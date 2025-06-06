@@ -345,7 +345,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "cooked_porkchop": "2025-06-05 18:16:33 +0000"
+      "cooked_porkchop": "2025-06-05 18:16:33 +0000",
+      "sweet_berries": "2025-06-06 20:01:22 +0000"
     },
     "done": false
   },
@@ -496,6 +497,12 @@
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2025-06-05 20:19:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-06-06 20:01:14 +0000"
     },
     "done": true
   },
