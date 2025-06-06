@@ -56,3 +56,7 @@
 [18:48:14] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-530, y=29, z=-170} iw{x=-531, y=28, z=-170}
 [18:49:11] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-526, y=27, z=-172} iw{x=-510, y=33, z=-172}
 [18:50:32] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-526, y=27, z=-172} iw{x=-518, y=27, z=-169}
+[18:53:24] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-527, y=28, z=-176} iw{x=-528, y=31, z=-176}
+[18:53:24] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-527, y=28, z=-176} iw{x=-528, y=31, z=-176}
+[18:53:24] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-527, y=28, z=-176} iw{x=-528, y=31, z=-176}
+[18:53:24] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-527, y=28, z=-176} iw{x=-528, y=31, z=-176}
