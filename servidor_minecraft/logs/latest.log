@@ -60,3 +60,13 @@
 [18:53:24] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-527, y=28, z=-176} iw{x=-528, y=31, z=-176}
 [18:53:24] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-527, y=28, z=-176} iw{x=-528, y=31, z=-176}
 [18:53:24] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-527, y=28, z=-176} iw{x=-528, y=31, z=-176}
+[19:07:45] [Server thread/INFO]: Luiing_Blue lost connection: Disconnected
+[19:07:45] [Server thread/INFO]: Luiing_Blue left the game
+[19:07:45] [Server thread/WARN]: handleDisconnection() called twice
+[19:09:45] [Server thread/INFO]: Server empty for 120 seconds, pausing
+[19:11:41] [Server thread/INFO]: Luiing_Blue[/100.87.58.84:63871] logged in with entity id 5634 at (-781.4143423380547, 192.0, -491.30000001192093)
+[19:11:41] [Server thread/INFO]: Luiing_Blue joined the game
+[19:17:59] [Server thread/INFO]: geronimo[/100.82.238.102:41238] logged in with entity id 7607 at (-575.3307968549411, 63.0, -302.27626000916325)
+[19:17:59] [Server thread/INFO]: geronimo joined the game
+[19:20:49] [Server thread/INFO]: geronimo was slain by Drowned
+[19:20:57] [Server thread/INFO]: [Not Secure] <Luiing_Blue> q a
