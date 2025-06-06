@@ -104,3 +104,6 @@
 [20:34:22] [Server thread/INFO]: geronimo lost connection: Timed out
 [20:34:22] [Server thread/INFO]: geronimo left the game
 [20:35:03] [Server thread/WARN]: Luiing_Blue moved wrongly!
+[20:45:58] [Server thread/WARN]: Luiing_Blue moved too quickly! -13.94949855711991,4.456496976852563,-10.806749971422022
+[20:49:17] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-617, y=101, z=-317} iw{x=-618, y=101, z=-314}
+[20:49:33] [Server thread/WARN]: Luiing_Blue moved wrongly!
