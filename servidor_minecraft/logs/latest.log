@@ -49,3 +49,6 @@
 [16:02:35] [Server thread/INFO]: Server empty for 120 seconds, pausing
 [16:05:10] [Server thread/INFO]: elite9007[/100.88.155.70:49933] logged in with entity id 4598 at (-592.9009015531088, 98.40437599579859, -304.0323779269496)
 [16:05:10] [Server thread/INFO]: elite9007 joined the game
+[16:16:03] [Server thread/WARN]: elite9007 moved wrongly!
+[16:21:42] [Server thread/INFO]: elite9007 lost connection: Timed out
+[16:21:42] [Server thread/INFO]: elite9007 left the game
