@@ -47,3 +47,6 @@
 [04:40:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
 [04:51:04] [Server thread/WARN]: Luiing_Blue moved wrongly!
 [05:01:36] [Server thread/WARN]: Luiing_Blue moved wrongly!
+[05:11:03] [Server thread/WARN]: Luiing_Blue moved wrongly!
+[05:16:16] [Server thread/INFO]: Named entity cpb['Integrales'/8978, l='ServerLevel[world]', x=-617.51, y=110.25, z=-306.50] died: Integrales was slain by Iron Golem
+[05:18:02] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-549, y=78, z=-144} iw{x=-624, y=107, z=-317}
