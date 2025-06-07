@@ -1,324 +1,86 @@
-[15:42:40] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[15:42:46] [ServerMain/INFO]: Loaded 1373 recipes
-[15:42:46] [ServerMain/INFO]: Loaded 1484 advancements
-[15:42:46] [Server thread/INFO]: Starting minecraft server version 1.21.5
-[15:42:46] [Server thread/INFO]: Loading properties
-[15:42:46] [Server thread/INFO]: Default game type: SURVIVAL
-[15:42:46] [Server thread/INFO]: Generating keypair
-[15:42:46] [Server thread/INFO]: Starting Minecraft server on *:25565
-[15:42:46] [Server thread/INFO]: Using epoll channel type
-[15:42:47] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[15:42:47] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[15:42:47] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[15:42:47] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[15:42:47] [Server thread/INFO]: Preparing level "INTEGRAL"
-[15:42:47] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[15:42:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:42:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:42:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:42:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:42:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:42:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:42:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:42:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:42:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:42:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:42:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:42:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:42:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:42:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:42:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:42:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:42:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:42:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:42:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:42:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:42:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:42:58] [Server thread/INFO]: Time elapsed: 10343 ms
-[15:42:58] [Server thread/INFO]: Done (11.120s)! For help, type "help"
-[15:43:34] [Server thread/INFO]: elite9007[/100.88.155.70:49987] logged in with entity id 9 at (-556.705615084804, 71.0, -239.5917743988237)
-[15:43:34] [Server thread/INFO]: elite9007 joined the game
-[15:43:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[15:43:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5160ms or 103 ticks behind
-[15:44:45] [Server thread/WARN]: elite9007 moved wrongly!
-[15:45:19] [Server thread/WARN]: elite9007 moved wrongly!
-[15:46:55] [Server thread/WARN]: elite9007 moved wrongly!
-[15:59:56] [Server thread/WARN]: elite9007 moved wrongly!
-[16:00:35] [Server thread/INFO]: elite9007 lost connection: Timed out
-[16:00:35] [Server thread/INFO]: elite9007 left the game
-[16:02:35] [Server thread/INFO]: Server empty for 120 seconds, pausing
-[16:05:10] [Server thread/INFO]: elite9007[/100.88.155.70:49933] logged in with entity id 4598 at (-592.9009015531088, 98.40437599579859, -304.0323779269496)
-[16:05:10] [Server thread/INFO]: elite9007 joined the game
-[16:16:03] [Server thread/WARN]: elite9007 moved wrongly!
-[16:21:42] [Server thread/INFO]: elite9007 lost connection: Timed out
-[16:21:42] [Server thread/INFO]: elite9007 left the game
-[16:23:42] [Server thread/INFO]: Server empty for 120 seconds, pausing
-[16:24:05] [Server thread/INFO]: elite9007[/100.88.155.70:49973] logged in with entity id 7998 at (-596.7773207302307, 105.5, -312.0424183169753)
-[16:24:05] [Server thread/INFO]: elite9007 joined the game
-[16:32:02] [Server thread/INFO]: Luiing_Blue[/100.109.71.109:54648] logged in with entity id 9772 at (-605.32738675116, 64.0, -258.5004936650118)
-[16:32:02] [Server thread/INFO]: Luiing_Blue joined the game
-[16:32:31] [Server thread/INFO]: [Not Secure] <Luiing_Blue> bof como genera esta cosa
-[16:32:36] [Server thread/INFO]: [Not Secure] <elite9007> lit
-[16:32:39] [Server thread/INFO]: [Not Secure] <Luiing_Blue> le hare el segundo modulo despue
-[16:32:43] [Server thread/INFO]: [Not Secure] <Luiing_Blue> ah que ya comenzaste
-[16:32:43] [Server thread/INFO]: [Not Secure] <Luiing_Blue> KDJASKDJASD
-[16:32:49] [Server thread/INFO]: [Not Secure] <elite9007> apue
-[16:32:55] [Server thread/INFO]: [Not Secure] <elite9007> pero solo hay 2 pillagers
-[16:32:59] [Server thread/INFO]: [Not Secure] <elite9007> tocó con zombies
-[16:33:10] [Server thread/INFO]: [Not Secure] <Luiing_Blue> con 3 modulos asi yo creo que anda melo
-[16:33:16] [Server thread/INFO]: [Not Secure] <Luiing_Blue> esta de alante destruyamosla
-[16:33:23] [Server thread/INFO]: [Not Secure] <elite9007> pero vamos a dejas el resto así?
-[16:33:25] [Server thread/INFO]: [Not Secure] <elite9007> nombe
-[16:33:27] [Server thread/INFO]: [Not Secure] <elite9007> todo o nada
-[16:33:35] [Server thread/INFO]: [Not Secure] <Luiing_Blue> avaricioso
-[16:36:13] [Server thread/INFO]: Villager cru['Librarian'/8236, l='ServerLevel[world]', x=-494.30, y=63.00, z=-309.70] died, message: 'Librarian was slain by Zombie'
-[16:36:52] [Server thread/INFO]: [Not Secure] <elite9007> casi
-[16:36:56] [Server thread/INFO]: [Not Secure] <Luiing_Blue> casi me lo clavas a mi
-[16:36:57] [Server thread/INFO]: [Not Secure] <Luiing_Blue> perro hp
-[16:36:59] [Server thread/INFO]: [Not Secure] <elite9007> por eso
-[16:37:01] [Server thread/INFO]: [Not Secure] <elite9007> AJKSDJKASJKAKDJ
-[16:37:05] [Server thread/INFO]: [Not Secure] <Luiing_Blue> mlp KASJDKASDJ
-[16:37:32] [Server thread/INFO]: [Not Secure] <Luiing_Blue> aca hay un problem
-[16:37:39] [Server thread/INFO]: [Not Secure] <Luiing_Blue> ah ya
-[16:48:28] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-587, y=107, z=-316} iw{x=-594, y=98, z=-313}
-[16:49:38] [Server thread/INFO]: [Not Secure] <Luiing_Blue> hay 3 pillagers
-[16:49:54] [Server thread/INFO]: [Not Secure] <elite9007> ah vrd
-[16:50:30] [Server thread/WARN]: Luiing_Blue moved wrongly!
-[16:50:35] [Server thread/INFO]: [Not Secure] <Luiing_Blue> ve al atrevido este
-[16:50:47] [Server thread/INFO]: [Not Secure] <Luiing_Blue> los de aca generan por mantenimiento
-[16:52:28] [Server thread/INFO]: [Not Secure] <elite9007> como así?
-[16:52:33] [Server thread/INFO]: [Not Secure] <Luiing_Blue> los de alante
-[16:52:39] [Server thread/INFO]: [Not Secure] <Luiing_Blue> generan golems a veces
-[16:52:48] [Server thread/INFO]: [Not Secure] <elite9007> ah pues sí
-[16:53:00] [Server thread/INFO]: [Not Secure] <elite9007> pongamosle la corriente de agua y ya
-[16:53:11] [Server thread/INFO]: [Not Secure] <Luiing_Blue> sueltan uno cada 3 noches
-[16:53:17] [Server thread/INFO]: [Not Secure] <elite9007> njd
-[16:53:25] [Server thread/INFO]: [Not Secure] <elite9007> has descansado bro?
-[16:53:26] [Server thread/INFO]: [Not Secure] <elite9007> KJASDJKASJKD
-[16:53:29] [Server thread/INFO]: [Not Secure] <Luiing_Blue> no
-[16:53:30] [Server thread/INFO]: [Not Secure] <Luiing_Blue> KDJASKJDASKJDA
-[16:53:37] [Server thread/INFO]: [Not Secure] <Luiing_Blue> mi cama vale vrg
-[16:53:45] [Server thread/INFO]: [Not Secure] <Luiing_Blue> mejor duermo en un saco e papa que en esa cama
-[16:54:19] [Server thread/WARN]: Luiing_Blue moved too quickly! -0.5176769738507119,-10.596058325307382,1.5439930208584087
-[16:54:26] [Server thread/WARN]: Luiing_Blue moved too quickly! 1.253857995089902,-9.977824293620657,1.1905675104520128
-[16:54:38] [Server thread/INFO]: [Not Secure] <Luiing_Blue> oe
-[16:54:43] [Server thread/INFO]: [Not Secure] <Luiing_Blue> lo del hielo es problando el agua
-[16:54:55] [Server thread/INFO]: [Not Secure] <Luiing_Blue> pq el agua es irregular ya que la plataforma no es simetrica
-[16:55:02] [Server thread/INFO]: [Not Secure] <elite9007> no importa
-[16:55:05] [Server thread/INFO]: [Not Secure] <elite9007> estetica
-[16:55:10] [Server thread/INFO]: [Not Secure] <Luiing_Blue> njd
-[16:55:32] [Server thread/WARN]: Luiing_Blue moved wrongly!
-[16:56:23] [Server thread/INFO]: elite9007 lost connection: Timed out
-[16:56:23] [Server thread/INFO]: elite9007 left the game
-[16:59:21] [Server thread/INFO]: elite9007[/100.88.155.70:50018] logged in with entity id 16358 at (-590.3000000119209, 107.0, -305.8003650331545)
-[16:59:21] [Server thread/INFO]: elite9007 joined the game
-[16:59:40] [Server thread/INFO]: [Not Secure] <Luiing_Blue> perreo hijue
-[16:59:41] [Server thread/INFO]: [Not Secure] <elite9007> KJAJKSJKASKJAS
-[16:59:47] [Server thread/INFO]: [Not Secure] <elite9007> voy a com
-[16:59:48] [Server thread/INFO]: [Not Secure] <elite9007> e
-[16:59:55] [Server thread/INFO]: [Not Secure] <Luiing_Blue> dale pu
-[16:59:56] [Server thread/INFO]: [Not Secure] <Luiing_Blue> e
-[17:00:08] [Server thread/INFO]: [Not Secure] <Luiing_Blue> el hueso
-[17:00:14] [Server thread/INFO]: elite9007 lost connection: Disconnected
-[17:00:14] [Server thread/INFO]: elite9007 left the game
-[17:00:58] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-590, y=106, z=-308} iw{x=-589, y=104, z=-306}
-[17:05:49] [Server thread/WARN]: Luiing_Blue moved wrongly!
-[17:13:28] [Server thread/INFO]: elite9007[/100.88.155.70:50384] logged in with entity id 19793 at (-592.3766679204305, 107.0, -309.20492589823635)
-[17:13:28] [Server thread/INFO]: elite9007 joined the game
-[17:13:36] [Server thread/INFO]: [Not Secure] <Luiing_Blue> tu aspiraste esa comida
-[17:13:42] [Server thread/INFO]: [Not Secure] <Luiing_Blue> DIAOSIDASOD}
-[17:13:43] [Server thread/INFO]: [Not Secure] <elite9007> no comí todo
-[17:13:49] [Server thread/INFO]: [Not Secure] <Luiing_Blue> y eso?
-[17:13:52] [Server thread/INFO]: [Not Secure] <Luiing_Blue> con razon quiere llover
-[17:14:13] [Server thread/INFO]: [Not Secure] <elite9007> era arróz de frijol cabezcita negra
-[17:14:16] [Server thread/INFO]: [Not Secure] <elite9007> pero ya hecho
-[17:14:30] [Server thread/INFO]: [Not Secure] <elite9007> cuando me lo dan así directamente no me gusta mucho
-[17:14:36] [Server thread/INFO]: [Not Secure] <Luiing_Blue> aaa
-[17:14:56] [Server thread/INFO]: [Not Secure] <elite9007> tu tienes los carteles no?
-[17:14:59] [Server thread/INFO]: [Not Secure] <Luiing_Blue> ye
-[17:15:05] [Server thread/INFO]: [Not Secure] <Luiing_Blue> quieres?
-[17:15:45] [Server thread/INFO]: [Not Secure] <Luiing_Blue> mano
-[17:15:51] [Server thread/INFO]: [Not Secure] <Luiing_Blue> extrovertidas o introvertidas?
-[17:18:12] [Server thread/INFO]: [Not Secure] <Luiing_Blue> e con yelo
-[17:18:19] [Server thread/INFO]: [Not Secure] <elite9007> a vrd
-[17:18:48] [Server thread/INFO]: [Not Secure] <Luiing_Blue> traere al pillager
-[17:18:51] [Server thread/INFO]: [Not Secure] <Luiing_Blue> creo que ya esta lista
-[17:18:59] [Server thread/INFO]: [Not Secure] <Luiing_Blue> falta poner las corrientes de agua
-[17:19:39] [Server thread/WARN]: elite9007 moved wrongly!
-[17:19:39] [Server thread/WARN]: elite9007 moved wrongly!
-[17:20:09] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-603, y=108, z=-295} iw{x=-603, y=103, z=-309}
-[17:21:13] [Server thread/INFO]: [Not Secure] <Luiing_Blue> pon railes que faltan aca
-[17:21:15] [Server thread/INFO]: [Not Secure] <Luiing_Blue> ando pobre de railes
-[17:22:01] [Server thread/INFO]: [Not Secure] <Luiing_Blue> oe
-[17:22:03] [Server thread/INFO]: [Not Secure] <elite9007> onta?
-[17:22:09] [Server thread/INFO]: [Not Secure] <elite9007> a
-[17:22:10] [Server thread/INFO]: [Not Secure] <elite9007> KJAWDJKASD
-[17:22:13] [Server thread/INFO]: [Not Secure] <Luiing_Blue> DAISJDKAS
-[17:22:33] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-602, y=102, z=-309} iw{x=-461, y=63, z=-196}
-[17:23:33] [Server thread/INFO]: [Not Secure] <Luiing_Blue> pasame hielo
-[17:23:50] [Server thread/INFO]: [Not Secure] <Luiing_Blue> oa esa vagoneta con carbon es el mejor invento
-[17:24:22] [Server thread/INFO]: [Not Secure] <Luiing_Blue> pasme el hielo
-[17:24:26] [Server thread/INFO]: [Not Secure] <elite9007> ajá
-[17:24:29] [Server thread/INFO]: [Not Secure] <Luiing_Blue> lo volviste a coje
-[17:24:34] [Server thread/INFO]: [Not Secure] <Luiing_Blue> ya
-[17:24:42] [Server thread/INFO]: [Not Secure] <Luiing_Blue> salen goles?
-[17:24:46] [Server thread/INFO]: [Not Secure] <elite9007> si
-[17:25:04] [Server thread/WARN]: Luiing_Blue moved wrongly!
-[17:26:01] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-591, y=101, z=-317} iw{x=-599, y=101, z=-306}
-[17:26:08] [Server thread/WARN]: Luiing_Blue moved too quickly! 6.253966313939486,17.38599214119725,-1.532450846833001
-[17:26:59] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-591, y=101, z=-317} iw{x=-589, y=107, z=-309}
-[17:27:14] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-591, y=101, z=-317} iw{x=-591, y=107, z=-309}
-[17:27:52] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-591, y=101, z=-317} iw{x=-595, y=107, z=-302}
-[17:27:56] [Server thread/INFO]: [Not Secure] <Luiing_Blue> ya
-[17:28:27] [Server thread/INFO]: [Not Secure] <Luiing_Blue> el recolector anda atascado KDASJKDAJSD
-[17:28:56] [Server thread/INFO]: [Not Secure] <Luiing_Blue> bof
-[17:29:00] [Server thread/INFO]: [Not Secure] <Luiing_Blue> que bonito se ve
-[17:29:15] [Server thread/WARN]: Luiing_Blue moved wrongly!
-[17:29:46] [Server thread/INFO]: [Not Secure] <Luiing_Blue> BOFFFF
-[17:29:50] [Server thread/INFO]: [Not Secure] <Luiing_Blue> que bonito nojoda
-[17:29:52] [Server thread/INFO]: [Not Secure] <Luiing_Blue> voy a llora
-[17:29:54] [Server thread/INFO]: [Not Secure] <Luiing_Blue> wiwi
-[17:30:14] [Server thread/INFO]: elite9007 lost connection: Timed out
-[17:30:14] [Server thread/INFO]: elite9007 left the game
-[17:30:14] [Server thread/WARN]: handleDisconnection() called twice
-[17:34:36] [Server thread/INFO]: elite9007[/100.88.155.70:49952] logged in with entity id 24583 at (-607.2979304937644, 130.96552243035677, -279.5848151820484)
-[17:34:36] [Server thread/INFO]: elite9007 joined the game
-[17:34:50] [Server thread/INFO]: [Not Secure] <elite9007> oa}
-[17:34:51] [Server thread/INFO]: [Not Secure] <elite9007> JKASJKDAJKSDKJASD
-[17:34:55] [Server thread/WARN]: Luiing_Blue moved too quickly! 1.285468553864689,-10.423716594274637,-0.9182486907274097
-[17:35:56] [Server thread/INFO]: geronimo[/100.82.238.102:49048] logged in with entity id 24896 at (-548.37828467552, 63.0, -245.12312877556383)
-[17:35:56] [Server thread/INFO]: geronimo joined the game
-[17:36:07] [Server thread/INFO]: elite9007 lost connection: Timed out
-[17:36:07] [Server thread/INFO]: elite9007 left the game
-[17:36:40] [Server thread/WARN]: Luiing_Blue moved too quickly! 10.8512749027567,11.62324569432782,8.57066217942321
-[17:37:31] [Server thread/INFO]: geronimo was shot by Skeleton
-[17:37:36] [Server thread/INFO]: geronimo lost connection: Disconnected
-[17:37:36] [Server thread/INFO]: geronimo left the game
-[17:37:47] [Server thread/INFO]: geronimo[/100.82.238.102:49766] logged in with entity id 25435 at (-549.3000000119209, 62.9375, -242.45907976455607)
-[17:37:47] [Server thread/INFO]: geronimo joined the game
-[17:39:50] [Server thread/INFO]: elite9007[/100.88.155.70:49943] logged in with entity id 25816 at (-604.134861632267, 103.0, -299.19035876465927)
-[17:39:50] [Server thread/INFO]: elite9007 joined the game
-[17:40:30] [Server thread/WARN]: elite9007 moved wrongly!
-[17:41:56] [Server thread/INFO]: [Not Secure] <Luiing_Blue> ahora pq carajo genera 1 cada uno
-[17:41:59] [Server thread/INFO]: [Not Secure] <Luiing_Blue> si este generaba 3
-[17:42:05] [Server thread/INFO]: elite9007 lost connection: Timed out
-[17:42:05] [Server thread/INFO]: elite9007 left the game
-[17:44:27] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-532, y=29, z=-166} iw{x=-532, y=28, z=-165}
-[17:44:52] [Server thread/WARN]: Luiing_Blue moved too quickly! 17.864790953099543,1.3335699382103883,-0.056005544631858584
-[17:47:25] [Server thread/INFO]: elite9007[/100.88.155.70:49959] logged in with entity id 28008 at (-601.3666586938466, 98.0, -284.37864232403865)
-[17:47:25] [Server thread/INFO]: elite9007 joined the game
-[17:47:52] [Server thread/INFO]: [Not Secure] <elite9007> ya van 2
-[17:47:53] [Server thread/INFO]: [Not Secure] <elite9007> faltan 2
-[17:48:37] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-615, y=104, z=-329} iw{x=-615, y=104, z=-332}
-[17:49:29] [Server thread/INFO]: [Not Secure] <Luiing_Blue> mano
-[17:49:32] [Server thread/INFO]: [Not Secure] <elite9007> q
-[17:49:35] [Server thread/INFO]: [Not Secure] <Luiing_Blue> creo que va a tocar hacerlas cruzadas
-[17:49:58] [Server thread/INFO]: [Not Secure] <Luiing_Blue> la que estaba antes generaba 3 ella sola
-[17:50:00] [Server thread/INFO]: [Not Secure] <Luiing_Blue> ya no
-[17:50:14] [Server thread/INFO]: [Not Secure] <Luiing_Blue> ahora generan 1 cada 1
-[17:50:33] [Server thread/WARN]: elite9007 moved wrongly!
-[17:51:08] [Server thread/INFO]: [Not Secure] <elite9007> acaba de sacar 3 la que hicismos ahora
-[17:51:18] [Server thread/INFO]: [Not Secure] <elite9007> pero eta sacó 1
-[17:51:41] [Server thread/INFO]: [Not Secure] <elite9007> otra opción
-[17:51:46] [Server thread/INFO]: [Not Secure] <elite9007> es hacerla una encima de la otra
-[17:52:04] [Server thread/INFO]: [Not Secure] <Luiing_Blue> nombeeeee
-[17:52:08] [Server thread/INFO]: [Not Secure] <Luiing_Blue> vamo a esperar pa ve
-[17:52:16] [Server thread/INFO]: [Not Secure] <Luiing_Blue> lo importante es que generan
-[17:52:19] [Server thread/WARN]: Luiing_Blue moved too quickly! 1.0744561989672547,-10.801818083422376,0.5770703597710849
-[17:52:21] [Server thread/INFO]: [Not Secure] <elite9007> KJASDJKASJKD
-[17:52:45] [Server thread/INFO]: [Not Secure] <elite9007> yo sigo diciendo
-[17:52:49] [Server thread/INFO]: [Not Secure] <elite9007> que hagamos la otra granja
-[17:52:51] [Server thread/INFO]: [Not Secure] <elite9007> KJASDKJAKSJDKJASD
-[17:52:54] [Server thread/INFO]: [Not Secure] <elite9007> del otro lao
-[17:52:56] [Server thread/INFO]: [Not Secure] <Luiing_Blue> cual otra
-[17:52:59] [Server thread/INFO]: [Not Secure] <Luiing_Blue> aaaa
-[17:53:00] [Server thread/INFO]: [Not Secure] <Luiing_Blue> pera
-[17:53:05] [Server thread/INFO]: [Not Secure] <Luiing_Blue> duerme
-[17:53:07] [Server thread/INFO]: [Not Secure] <elite9007> pillame
-[17:53:13] [Server thread/WARN]: elite9007 moved wrongly!
-[17:53:47] [Server thread/INFO]: [Not Secure] <elite9007> zz
-[17:53:47] [Server thread/INFO]: [Not Secure] <elite9007> z
-[17:53:47] [Server thread/INFO]: [Not Secure] <elite9007> z
-[17:53:47] [Server thread/INFO]: [Not Secure] <elite9007> z
-[17:53:57] [Server thread/INFO]: [Not Secure] <Luiing_Blue> putos phantoms de mierda
-[17:54:09] [Server thread/INFO]: [Not Secure] <geronimo> zzzzzzzzzzzz
-[17:54:18] [Server thread/INFO]: [Not Secure] <elite9007> MANO
-[17:54:23] [Server thread/INFO]: [Not Secure] <elite9007> ESO NO LO ESCRIBÍ YO
-[17:54:28] [Server thread/INFO]: [Not Secure] <elite9007> LO ESCRIBIÓ GERONIMO
-[17:54:28] [Server thread/INFO]: [Not Secure] <Luiing_Blue> ASKJASJKASJKLDASKJLKJDSA
-[17:54:31] [Server thread/INFO]: [Not Secure] <elite9007> JKASJKDJKASDJKAKJSDJKASJKDJKASD
-[17:54:33] [Server thread/INFO]: [Not Secure] <Luiing_Blue> geronimo anda aprendiendo
-[17:54:36] [Server thread/INFO]: [Not Secure] <elite9007> real
-[17:54:40] [Server thread/INFO]: [Not Secure] <Luiing_Blue> traelo a la granja
-[17:54:42] [Server thread/WARN]: elite9007 moved wrongly!
-[17:54:42] [Server thread/INFO]: [Not Secure] <Luiing_Blue> pa q la construya
-[17:55:14] [Server thread/INFO]: [Not Secure] <Luiing_Blue> tiens cabezas de whiter?
-[17:55:19] [Server thread/INFO]: [Not Secure] <elite9007> ño
-[17:55:23] [Server thread/INFO]: [Not Secure] <Luiing_Blue> oa
-[17:55:28] [Server thread/INFO]: [Not Secure] <elite9007> vamos hacer la de withers
-[17:55:38] [Server thread/INFO]: [Not Secure] <Luiing_Blue> dale
-[17:55:39] [Server thread/INFO]: [Not Secure] <elite9007> dejemos esta así por ahora
-[17:56:44] [Server thread/INFO]: [Not Secure] <Luiing_Blue> hay que ya a comenzar a decorar el hueco
-[18:00:25] [Server thread/INFO]: [Not Secure] <elite9007> hay que hacer pronto el otro almacenamiento
-[18:00:31] [Server thread/INFO]: [Not Secure] <Luiing_Blue> szs
-[18:00:34] [Server thread/INFO]: [Not Secure] <elite9007> esto se está saturando mucho
-[18:00:41] [Server thread/INFO]: [Not Secure] <Luiing_Blue> ya ando cabando el hueco pal item sorter
-[18:00:48] [Server thread/INFO]: [Not Secure] <Luiing_Blue> solo que quiero decorar esta kga primero
-[18:03:12] [Server thread/INFO]: [Not Secure] <Luiing_Blue> KASJDKASJLDKASJD
-[18:03:26] [Server thread/INFO]: [Not Secure] <elite9007> y como lo queires decorar?
-[18:03:33] [Server thread/INFO]: [Not Secure] <Luiing_Blue> estaba pensando tipo ancient city
-[18:03:42] [Server thread/INFO]: [Not Secure] <elite9007> sea como sea
-[18:03:43] [Server thread/INFO]: [Not Secure] <Luiing_Blue> pa eso necesito un whiter
-[18:03:58] [Server thread/INFO]: [Not Secure] <elite9007> necestiamos cemento
-[18:04:09] [Server thread/INFO]: [Not Secure] <Luiing_Blue> no seria mejor de deepslate?
-[18:04:17] [Server thread/INFO]: [Not Secure] <elite9007> o sea
-[18:04:28] [Server thread/INFO]: [Not Secure] <elite9007> pera dar como algunos detalles
-[18:04:32] [Server thread/INFO]: [Not Secure] <elite9007> total
-[18:04:32] [Server thread/INFO]: [Not Secure] <Luiing_Blue> ah ya
-[18:04:43] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-519, y=29, z=-162} iw{x=-519, y=29, z=-161}
-[18:04:50] [Server thread/INFO]: [Not Secure] <elite9007> vamos hacer la de withers rapido
-[18:04:54] [Server thread/INFO]: [Not Secure] <Luiing_Blue> dale
-[18:05:16] [Server thread/INFO]: [Not Secure] <elite9007> 31 56 -621
-[18:06:01] [Server thread/INFO]: geronimo has reached the goal [Postmortal]
-[18:06:03] [Server thread/WARN]: Luiing_Blue moved too quickly! -0.5140291747718777,-0.1307676124821171,18.155522528537517
-[18:06:04] [Server thread/INFO]: geronimo was slain by Zombie
-[18:06:13] [Server thread/INFO]: [Not Secure] <Luiing_Blue> no le tienes portal arriba del techo?
-[18:07:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4244ms or 84 ticks behind
-[18:07:20] [Server thread/INFO]: geronimo has made the advancement [We Need to Go Deeper]
-[18:07:33] [Server thread/INFO]: geronimo fell from a high place
-[18:08:40] [Server thread/INFO]: geronimo fell from a high place
-[18:08:44] [Server thread/WARN]: elite9007 moved wrongly!
-[18:08:50] [Server thread/INFO]: [Not Secure] <elite9007> ya estoy
-[18:09:10] [Server thread/INFO]: [Not Secure] <Luiing_Blue> x2
-[18:09:18] [Server thread/INFO]: [Not Secure] <elite9007> llega a las coordenadas exactas
-[18:09:39] [Server thread/INFO]: [Not Secure] <Luiing_Blue> NOO
-[18:09:41] [Server thread/WARN]: Luiing_Blue moved wrongly!
-[18:09:54] [Server thread/INFO]: [Not Secure] <Luiing_Blue> ya ando aca
-[18:12:04] [Server thread/INFO]: [Not Secure] <elite9007> este es el punto mas alto
-[18:12:33] [Server thread/INFO]: [Not Secure] <elite9007> ahora
-[18:12:34] [Server thread/WARN]: Luiing_Blue moved wrongly!
-[18:12:35] [Server thread/INFO]: [Not Secure] <elite9007> como era?
-[18:12:36] [Server thread/INFO]: [Not Secure] <elite9007> KJAKJDAKJSD
-[18:12:39] [Server thread/INFO]: [Not Secure] <Luiing_Blue> LKADFJLKASKJLASDLKJ
-[18:16:12] [Server thread/INFO]: [Not Secure] <elite9007> pensé que tenía las elytras JKASDKJASKD
-[18:16:16] [Server thread/INFO]: [Not Secure] <Luiing_Blue> kasjdkasjd
-[18:16:23] [Server thread/INFO]: [Not Secure] <Luiing_Blue> ya decia yo pq te tiraste a lo maldita sea
-[18:16:49] [Server thread/INFO]: [Not Secure] <Luiing_Blue> a todo esto
-[18:17:01] [Server thread/INFO]: [Not Secure] <Luiing_Blue> mucha granja y todo pero no tenemos un orogedon en nuestro mundo
-[18:17:18] [Server thread/INFO]: [Not Secure] <elite9007> tranquilo bro
-[18:17:31] [Server thread/INFO]: [Not Secure] <elite9007> yo eso lo estoy pensando ahce rato
-[18:17:38] [Server thread/INFO]: [Not Secure] <elite9007> va a ser mejor
-[18:17:45] [Server thread/INFO]: [Not Secure] <Luiing_Blue> KASJDKASDJ
-[18:17:50] [Server thread/INFO]: [Not Secure] <Luiing_Blue> te imaginas hacerlo?
-[18:17:53] [Server thread/INFO]: [Not Secure] <Luiing_Blue> servidor en abundancia
-[18:17:57] [Server thread/INFO]: [Not Secure] <Luiing_Blue> todos comen con manzanas de oro
-[18:18:04] [Server thread/INFO]: [Not Secure] <elite9007> bor
-[18:18:13] [Server thread/INFO]: [Not Secure] <elite9007> no va a ser un "imaginas"
-[18:18:19] [Server thread/INFO]: [Not Secure] <elite9007> va a ser "vamos hacerlo"
-[18:18:22] [Server thread/INFO]: [Not Secure] <Luiing_Blue> bof
-[18:18:24] [Server thread/INFO]: [Not Secure] <Luiing_Blue> morral
-[18:19:16] [Server thread/INFO]: [Not Secure] <Luiing_Blue> 4 cabezas
-[18:21:48] [Server thread/INFO]: [Not Secure] <elite9007> que azare vale
-[18:21:54] [Server thread/INFO]: [Not Secure] <elite9007> no me dejan hacer mi vaina tranquilo
-[18:21:59] [Server thread/INFO]: [Not Secure] <Luiing_Blue> si valgo verga
-[18:22:01] [Server thread/INFO]: [Not Secure] <Luiing_Blue> me cai en la lava
+[18:36:20] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[18:36:27] [ServerMain/INFO]: Loaded 1373 recipes
+[18:36:27] [ServerMain/INFO]: Loaded 1484 advancements
+[18:36:28] [Server thread/INFO]: Starting minecraft server version 1.21.5
+[18:36:28] [Server thread/INFO]: Loading properties
+[18:36:28] [Server thread/INFO]: Default game type: SURVIVAL
+[18:36:28] [Server thread/INFO]: Generating keypair
+[18:36:28] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:36:28] [Server thread/INFO]: Using epoll channel type
+[18:36:28] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:36:28] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:36:28] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:36:28] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:36:28] [Server thread/INFO]: Preparing level "INTEGRAL"
+[18:36:29] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:36:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:36:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:36:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:36:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:36:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:36:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:36:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:36:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:36:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:36:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:36:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:36:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:36:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:36:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:36:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:36:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:36:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:36:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:36:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:36:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:36:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:36:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:36:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:36:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:36:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:36:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:36:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:36:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:36:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:36:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:36:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:36:45] [Server thread/INFO]: Time elapsed: 15643 ms
+[18:36:45] [Server thread/INFO]: Done (16.643s)! For help, type "help"
+[18:36:53] [Server thread/INFO]: Luiing_Blue[/100.109.71.109:56513] logged in with entity id 92 at (45.9464947466388, 56.121296840539195, -617.474030773205)
+[18:36:53] [Server thread/INFO]: Luiing_Blue joined the game
+[18:36:54] [Server thread/WARN]: UUID of added entity already exists: ctn['Thrown Ender Pearl'/117, l='ServerLevel[world]', x=-486.71, y=61.95, z=-221.57]
+[18:37:18] [Server thread/INFO]: elite9007[/100.88.155.70:49974] logged in with entity id 324 at (53.208262054068314, 66.0, -655.205109884527)
+[18:37:18] [Server thread/INFO]: elite9007 joined the game
+[18:37:18] [Server thread/WARN]: UUID of added entity already exists: ctn['Thrown Ender Pearl'/325, l='ServerLevel[world]', x=-484.54, y=61.95, z=-221.78]
+[18:37:18] [Server thread/WARN]: Failed to spawn player ender pearl in level (ResourceKey[minecraft:dimension / minecraft:overworld]), skipping
+[18:38:57] [Server thread/INFO]: [Not Secure] <Luiing_Blue> putos blazes vale
+[18:39:00] [Server thread/INFO]: [Not Secure] <Luiing_Blue> mierda de mob
+[18:39:10] [Server thread/INFO]: [Not Secure] <elite9007> ayudame
+[18:39:12] [Server thread/INFO]: [Not Secure] <elite9007> acá
+[18:39:32] [Server thread/INFO]: [Not Secure] <Luiing_Blue> éra
+[18:40:27] [Server thread/INFO]: [Not Secure] <elite9007> no sé tú
+[18:40:34] [Server thread/INFO]: [Not Secure] <elite9007> pero quiero hacer el perímetro acá
+[18:40:36] [Server thread/INFO]: [Not Secure] <elite9007> jksdajksdasdjk
+[18:40:41] [Server thread/INFO]: [Not Secure] <Luiing_Blue> q perimetro
+[18:40:51] [Server thread/INFO]: [Not Secure] <elite9007> para la granja esta
+[18:40:57] [Server thread/INFO]: [Not Secure] <Luiing_Blue> aja y este no es el perimetro?
+[18:41:02] [Server thread/INFO]: [Not Secure] <elite9007> bro
+[18:41:06] [Server thread/INFO]: [Not Secure] <elite9007> un perímetro
+[18:41:12] [Server thread/INFO]: [Not Secure] <elite9007> es picar que cule hueco
+[18:41:17] [Server thread/INFO]: [Not Secure] <elite9007> min de 8x8 chunks
+[18:41:25] [Server thread/INFO]: [Not Secure] <Luiing_Blue> recojete
+[18:41:30] [Server thread/INFO]: [Not Secure] <elite9007> yo lo voy hacer
+[18:41:32] [Server thread/INFO]: [Not Secure] <elite9007> JKASJDKAJKSDJKASD
+[18:41:32] [Server thread/INFO]: [Not Secure] <Luiing_Blue> ASJKDJALSKD
+[18:41:35] [Server thread/INFO]: [Not Secure] <Luiing_Blue> desocupao vale
+[18:41:40] [Server thread/INFO]: [Not Secure] <elite9007> JKASDJKAKSJDJKASDJKAD
+[18:42:18] [Server thread/INFO]: [Not Secure] <elite9007> haz algo
+[18:42:20] [Server thread/INFO]: [Not Secure] <elite9007> pilla
+[18:42:27] [Server thread/INFO]: [Not Secure] <elite9007> baja los chunks a 2
+[18:42:42] [Server thread/WARN]: Luiing_Blue moved wrongly!
+[18:42:43] [Server thread/INFO]: [Not Secure] <Luiing_Blue> ya
+[18:42:56] [Server thread/INFO]: [Not Secure] <elite9007> así no deberían de spawnear
+[18:44:07] [Server thread/WARN]: Luiing_Blue moved too quickly! 0.3148373108529512,-10.59488254215698,0.19458867877278863
+[18:44:26] [Server thread/INFO]: [Not Secure] <Luiing_Blue> tienes as bloques?
+[18:44:38] [Server thread/INFO]: [Not Secure] <elite9007> ño
+[18:44:50] [Server thread/INFO]: [Not Secure] <Luiing_Blue> se quedo corto esto tons
