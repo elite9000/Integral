@@ -169,3 +169,7 @@
 [19:05:45] [Server thread/INFO]: [Not Secure] <elite9007> chao
 [19:05:50] [Server thread/INFO]: Luiing_Blue lost connection: Disconnected
 [19:05:50] [Server thread/INFO]: Luiing_Blue left the game
+[19:12:05] [Server thread/INFO]: elite9007 lost connection: Timed out
+[19:12:05] [Server thread/INFO]: elite9007 left the game
+[19:12:05] [Server thread/WARN]: handleDisconnection() called twice
+[19:14:05] [Server thread/INFO]: Server empty for 120 seconds, pausing
