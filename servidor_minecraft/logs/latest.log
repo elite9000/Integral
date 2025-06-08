@@ -187,3 +187,4 @@
 [17:33:26] [Server thread/INFO]: geronimo left the game
 [17:33:58] [Server thread/INFO]: com.mojang.authlib.GameProfile@26ac4c29[id=dc22c1c2-9e84-3b3e-b9c5-0dc090facda1,name=geronimo,properties={}] lost connection: Timed out
 [17:44:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7142ms or 142 ticks behind
+[17:54:44] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=0, y=105, z=-654} iw{x=0, y=105, z=-653}
