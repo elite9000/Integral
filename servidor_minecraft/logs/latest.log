@@ -183,3 +183,6 @@
 [17:28:08] [Server thread/INFO]: geronimo left the game
 [17:28:35] [Server thread/INFO]: geronimo[/100.82.238.102:44970] logged in with entity id 18837 at (-539.6999999880791, 60.875, -245.01907937784495)
 [17:28:35] [Server thread/INFO]: geronimo joined the game
+[17:33:26] [Server thread/INFO]: geronimo lost connection: Disconnected
+[17:33:26] [Server thread/INFO]: geronimo left the game
+[17:33:58] [Server thread/INFO]: com.mojang.authlib.GameProfile@26ac4c29[id=dc22c1c2-9e84-3b3e-b9c5-0dc090facda1,name=geronimo,properties={}] lost connection: Timed out
