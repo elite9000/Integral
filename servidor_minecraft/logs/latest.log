@@ -45,3 +45,5 @@
 [03:04:15] [Server thread/WARN]: UUID of added entity already exists: cpx['Strider'/80, l='ServerLevel[world]', x=119.11, y=31.50, z=-687.11]
 [03:04:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
 [03:19:13] [Server thread/WARN]: Luiing_Blue moved wrongly!
+[03:27:23] [Server thread/WARN]: Luiing_Blue moved wrongly!
+[03:36:15] [Server thread/WARN]: Luiing_Blue moved too quickly! 8.397397807636196,10.033799338898248,-11.941771708762644
