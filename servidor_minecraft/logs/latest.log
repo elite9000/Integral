@@ -42,3 +42,8 @@
 [19:58:19] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-627, y=69, z=-218} iw{x=-598, y=99, z=-281}
 [20:00:15] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-606, y=101, z=-288} iw{x=-608, y=101, z=-278}
 [20:01:46] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-605, y=98, z=-273} iw{x=-609, y=99, z=-273}
+[20:07:53] [Server thread/INFO]: Villager cru['Villager'/279, l='ServerLevel[world]', x=-582.70, y=103.56, z=-312.74] was struck by lightning bye['Lightning Bolt'/23768, l='ServerLevel[world]', x=-579.50, y=107.00, z=-315.50].
+[20:07:53] [Server thread/INFO]: Villager cru['Villager'/280, l='ServerLevel[world]', x=-581.30, y=103.50, z=-314.70] was struck by lightning bye['Lightning Bolt'/23768, l='ServerLevel[world]', x=-579.50, y=107.00, z=-315.50].
+[20:10:43] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-469, y=61, z=-196} iw{x=-469, y=61, z=-195}
+[20:10:46] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-469, y=61, z=-196} iw{x=-467, y=63, z=-197}
+[20:10:46] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-469, y=61, z=-196} iw{x=-467, y=63, z=-197}
