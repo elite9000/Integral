@@ -79,3 +79,16 @@
 [19:17:46] [Server thread/INFO]: elite9007 joined the game
 [19:21:12] [Server thread/INFO]: geronimo was slain by elite9007
 [19:24:01] [Server thread/WARN]: elite9007 moved wrongly!
+[19:25:06] [Server thread/WARN]: elite9007 moved wrongly!
+[19:26:17] [Server thread/INFO]: [Not Secure] <geronimo> zzzzzzzzz
+[19:26:48] [Server thread/WARN]: elite9007 moved wrongly!
+[19:27:50] [Server thread/WARN]: elite9007 moved wrongly!
+[19:30:47] [Server thread/INFO]: geronimo has made the advancement [Acquire Hardware]
+[19:31:24] [Server thread/INFO]: geronimo has made the advancement [Stone Age]
+[19:31:24] [Server thread/INFO]: geronimo has made the advancement [Ice Bucket Challenge]
+[19:33:33] [Server thread/INFO]: elite9007 lost connection: Timed out
+[19:33:33] [Server thread/INFO]: elite9007 left the game
+[19:33:33] [Server thread/WARN]: handleDisconnection() called twice
+[19:39:13] [Server thread/INFO]: geronimo lost connection: Disconnected
+[19:39:13] [Server thread/INFO]: geronimo left the game
+[19:41:13] [Server thread/INFO]: Server empty for 120 seconds, pausing
