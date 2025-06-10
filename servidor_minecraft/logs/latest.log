@@ -55,3 +55,20 @@
 [18:59:17] [Server thread/INFO]: elite9007 left the game
 [18:59:17] [Server thread/WARN]: handleDisconnection() called twice
 [19:01:38] [Server thread/INFO]: geronimo fell from a high place
+[19:05:01] [Server thread/INFO]: geronimo was slain by Zombie
+[19:06:52] [Server thread/INFO]: elite9007[/100.88.155.70:49934] logged in with entity id 13060 at (41.557140994735526, 119.0, -652.9259329012551)
+[19:06:52] [Server thread/INFO]: elite9007 joined the game
+[19:07:35] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=0, y=0, z=0} iw{x=41, y=115, z=-654}
+[19:07:53] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=49, y=111, z=-655} iw{x=48, y=111, z=-654}
+[19:07:53] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=49, y=111, z=-655} iw{x=48, y=111, z=-654}
+[19:07:53] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=49, y=111, z=-655} iw{x=48, y=111, z=-654}
+[19:07:53] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=49, y=111, z=-655} iw{x=48, y=111, z=-654}
+[19:07:53] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=49, y=111, z=-655} iw{x=48, y=111, z=-654}
+[19:07:53] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=49, y=111, z=-655} iw{x=48, y=111, z=-654}
+[19:07:53] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=49, y=111, z=-655} iw{x=48, y=111, z=-654}
+[19:07:53] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=49, y=111, z=-655} iw{x=48, y=111, z=-654}
+[19:09:30] [Server thread/WARN]: elite9007 moved wrongly!
+[19:10:07] [Server thread/INFO]: geronimo was slain by Zombie
+[19:10:29] [Server thread/WARN]: elite9007 moved wrongly!
+[19:11:35] [Server thread/INFO]: geronimo fell from a high place
+[19:12:04] [Server thread/INFO]: geronimo was slain by Zombie
