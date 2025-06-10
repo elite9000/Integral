@@ -1,99 +1,55 @@
-[18:23:30] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[18:23:36] [ServerMain/INFO]: Loaded 1373 recipes
-[18:23:36] [ServerMain/INFO]: Loaded 1484 advancements
-[18:23:37] [Server thread/INFO]: Starting minecraft server version 1.21.5
-[18:23:37] [Server thread/INFO]: Loading properties
-[18:23:37] [Server thread/INFO]: Default game type: SURVIVAL
-[18:23:37] [Server thread/INFO]: Generating keypair
-[18:23:37] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:23:37] [Server thread/INFO]: Using epoll channel type
-[18:23:37] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[18:23:37] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[18:23:37] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[18:23:37] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[18:23:37] [Server thread/INFO]: Preparing level "INTEGRAL"
-[18:23:39] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[18:23:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:23:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:23:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:23:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:23:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:23:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:23:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:23:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:23:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:23:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:23:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:23:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:23:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:23:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:23:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:23:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:23:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:23:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:23:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:23:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:23:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:23:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:23:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:23:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:23:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:23:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:23:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:23:53] [Server thread/INFO]: Time elapsed: 13711 ms
-[18:23:53] [Server thread/INFO]: Done (15.507s)! For help, type "help"
-[18:23:59] [Server thread/INFO]: elite9007[/100.88.155.70:61664] logged in with entity id 7 at (42.30134249230959, 128.0, -655.5457065529208)
-[18:23:59] [Server thread/INFO]: elite9007 joined the game
-[18:24:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2856ms or 57 ticks behind
-[18:35:50] [Server thread/INFO]: geronimo[/100.82.238.102:44786] logged in with entity id 2554 at (-547.898505696032, 63.0, -237.76249998807907)
-[18:35:50] [Server thread/INFO]: geronimo joined the game
-[18:39:47] [Server thread/INFO]: geronimo fell from a high place
-[18:48:33] [Server thread/INFO]: geronimo was shot by Skeleton
-[18:51:16] [Server thread/INFO]: geronimo was slain by Enderman
-[18:52:32] [Server thread/INFO]: geronimo was slain by Zombie
-[18:59:17] [Server thread/INFO]: elite9007 lost connection: Timed out
-[18:59:17] [Server thread/INFO]: elite9007 left the game
-[18:59:17] [Server thread/WARN]: handleDisconnection() called twice
-[19:01:38] [Server thread/INFO]: geronimo fell from a high place
-[19:05:01] [Server thread/INFO]: geronimo was slain by Zombie
-[19:06:52] [Server thread/INFO]: elite9007[/100.88.155.70:49934] logged in with entity id 13060 at (41.557140994735526, 119.0, -652.9259329012551)
-[19:06:52] [Server thread/INFO]: elite9007 joined the game
-[19:07:35] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=0, y=0, z=0} iw{x=41, y=115, z=-654}
-[19:07:53] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=49, y=111, z=-655} iw{x=48, y=111, z=-654}
-[19:07:53] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=49, y=111, z=-655} iw{x=48, y=111, z=-654}
-[19:07:53] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=49, y=111, z=-655} iw{x=48, y=111, z=-654}
-[19:07:53] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=49, y=111, z=-655} iw{x=48, y=111, z=-654}
-[19:07:53] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=49, y=111, z=-655} iw{x=48, y=111, z=-654}
-[19:07:53] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=49, y=111, z=-655} iw{x=48, y=111, z=-654}
-[19:07:53] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=49, y=111, z=-655} iw{x=48, y=111, z=-654}
-[19:07:53] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=49, y=111, z=-655} iw{x=48, y=111, z=-654}
-[19:09:30] [Server thread/WARN]: elite9007 moved wrongly!
-[19:10:07] [Server thread/INFO]: geronimo was slain by Zombie
-[19:10:29] [Server thread/WARN]: elite9007 moved wrongly!
-[19:11:35] [Server thread/INFO]: geronimo fell from a high place
-[19:12:04] [Server thread/INFO]: geronimo was slain by Zombie
-[19:17:02] [Server thread/WARN]: elite9007 moved wrongly!
-[19:17:44] [Server thread/INFO]: elite9007 lost connection: Disconnected
-[19:17:44] [Server thread/INFO]: elite9007 left the game
-[19:17:46] [Server thread/INFO]: elite9007[/100.88.155.70:50059] logged in with entity id 17806 at (368.2811393214902, 192.0, -5218.006401378214)
-[19:17:46] [Server thread/INFO]: elite9007 joined the game
-[19:21:12] [Server thread/INFO]: geronimo was slain by elite9007
-[19:24:01] [Server thread/WARN]: elite9007 moved wrongly!
-[19:25:06] [Server thread/WARN]: elite9007 moved wrongly!
-[19:26:17] [Server thread/INFO]: [Not Secure] <geronimo> zzzzzzzzz
-[19:26:48] [Server thread/WARN]: elite9007 moved wrongly!
-[19:27:50] [Server thread/WARN]: elite9007 moved wrongly!
-[19:30:47] [Server thread/INFO]: geronimo has made the advancement [Acquire Hardware]
-[19:31:24] [Server thread/INFO]: geronimo has made the advancement [Stone Age]
-[19:31:24] [Server thread/INFO]: geronimo has made the advancement [Ice Bucket Challenge]
-[19:33:33] [Server thread/INFO]: elite9007 lost connection: Timed out
-[19:33:33] [Server thread/INFO]: elite9007 left the game
-[19:33:33] [Server thread/WARN]: handleDisconnection() called twice
-[19:39:13] [Server thread/INFO]: geronimo lost connection: Disconnected
-[19:39:13] [Server thread/INFO]: geronimo left the game
-[19:41:13] [Server thread/INFO]: Server empty for 120 seconds, pausing
-[20:20:51] [Server thread/INFO]: elite9007[/100.88.155.70:58050] logged in with entity id 24801 at (-637.6440817688373, 104.16537314525982, -355.1003167418398)
-[20:20:51] [Server thread/INFO]: elite9007 joined the game
-[20:23:20] [Server thread/WARN]: elite9007 moved wrongly!
-[20:40:40] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[20:40:40] [Server thread/INFO]: vtell @a -575 -224<--[HERE]
+[20:41:59] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[20:42:03] [ServerMain/INFO]: Loaded 1373 recipes
+[20:42:03] [ServerMain/INFO]: Loaded 1484 advancements
+[20:42:03] [Server thread/INFO]: Starting minecraft server version 1.21.5
+[20:42:03] [Server thread/INFO]: Loading properties
+[20:42:03] [Server thread/INFO]: Default game type: SURVIVAL
+[20:42:03] [Server thread/INFO]: Generating keypair
+[20:42:03] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:42:03] [Server thread/INFO]: Using epoll channel type
+[20:42:03] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20:42:03] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[20:42:03] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20:42:03] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[20:42:03] [Server thread/INFO]: Preparing level "INTEGRAL"
+[20:42:04] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:42:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:42:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:42:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:42:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:42:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:42:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:42:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:42:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:42:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:42:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:42:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:42:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:42:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:42:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:42:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:42:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:42:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:42:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:42:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:42:13] [Server thread/INFO]: Time elapsed: 9155 ms
+[20:42:13] [Server thread/INFO]: Done (9.729s)! For help, type "help"
+[20:42:14] [Server thread/INFO]: elite9007[/100.88.155.70:58274] logged in with entity id 6 at (-442.5579338535142, 68.5625, -274.5)
+[20:42:14] [Server thread/INFO]: elite9007 joined the game
+[20:42:16] [Server thread/WARN]: UUID of added entity already exists: ctn['Thrown Ender Pearl'/82, l='ServerLevel[world]', x=-484.54, y=62.09, z=-221.68]
+[20:42:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2057ms or 41 ticks behind
+[20:43:29] [Server thread/INFO]: You whisper to elite9007: -575 -224
+[20:45:21] [Server thread/WARN]: elite9007 moved wrongly!
+[20:57:27] [Server thread/INFO]: elite9007 lost connection: Disconnected
+[20:57:27] [Server thread/INFO]: elite9007 left the game
+[20:57:35] [Server thread/INFO]: Stopping the server
+[20:57:35] [Server thread/INFO]: Stopping server
+[20:57:35] [Server thread/INFO]: Saving players
+[20:57:35] [Server thread/INFO]: Saving worlds
+[20:57:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[20:57:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[20:57:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[20:57:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (INTEGRAL): All chunks are saved
+[20:57:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:57:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:57:35] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
