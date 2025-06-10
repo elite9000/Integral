@@ -46,3 +46,8 @@
 [21:39:42] [Server thread/WARN]: Failed to spawn player ender pearl in level (ResourceKey[minecraft:dimension / minecraft:overworld]), skipping
 [21:39:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2451ms or 49 ticks behind
 [21:43:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[21:50:24] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-2608, y=-24, z=1192} iw{x=-2608, y=-25, z=1193}
+[21:50:39] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-2610, y=-22, z=1201} iw{x=-2609, y=-22, z=1201}
+[21:50:52] [Server thread/WARN]: Luiing_Blue moved wrongly!
+[21:51:17] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-2597, y=-38, z=1223} iw{x=-2598, y=-38, z=1221}
+[21:51:35] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-2564, y=-50, z=1240} iw{x=-2564, y=-51, z=1239}
