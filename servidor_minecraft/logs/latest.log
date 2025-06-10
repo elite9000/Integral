@@ -1,55 +1,48 @@
-[20:41:59] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[20:42:03] [ServerMain/INFO]: Loaded 1373 recipes
-[20:42:03] [ServerMain/INFO]: Loaded 1484 advancements
-[20:42:03] [Server thread/INFO]: Starting minecraft server version 1.21.5
-[20:42:03] [Server thread/INFO]: Loading properties
-[20:42:03] [Server thread/INFO]: Default game type: SURVIVAL
-[20:42:03] [Server thread/INFO]: Generating keypair
-[20:42:03] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:42:03] [Server thread/INFO]: Using epoll channel type
-[20:42:03] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[20:42:03] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[20:42:03] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[20:42:03] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[20:42:03] [Server thread/INFO]: Preparing level "INTEGRAL"
-[20:42:04] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[20:42:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:42:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:42:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:42:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:42:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:42:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:42:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:42:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:42:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:42:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:42:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:42:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:42:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:42:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:42:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:42:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:42:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:42:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:42:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:42:13] [Server thread/INFO]: Time elapsed: 9155 ms
-[20:42:13] [Server thread/INFO]: Done (9.729s)! For help, type "help"
-[20:42:14] [Server thread/INFO]: elite9007[/100.88.155.70:58274] logged in with entity id 6 at (-442.5579338535142, 68.5625, -274.5)
-[20:42:14] [Server thread/INFO]: elite9007 joined the game
-[20:42:16] [Server thread/WARN]: UUID of added entity already exists: ctn['Thrown Ender Pearl'/82, l='ServerLevel[world]', x=-484.54, y=62.09, z=-221.68]
-[20:42:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2057ms or 41 ticks behind
-[20:43:29] [Server thread/INFO]: You whisper to elite9007: -575 -224
-[20:45:21] [Server thread/WARN]: elite9007 moved wrongly!
-[20:57:27] [Server thread/INFO]: elite9007 lost connection: Disconnected
-[20:57:27] [Server thread/INFO]: elite9007 left the game
-[20:57:35] [Server thread/INFO]: Stopping the server
-[20:57:35] [Server thread/INFO]: Stopping server
-[20:57:35] [Server thread/INFO]: Saving players
-[20:57:35] [Server thread/INFO]: Saving worlds
-[20:57:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[20:57:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[20:57:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[20:57:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (INTEGRAL): All chunks are saved
-[20:57:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[20:57:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[20:57:35] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[21:38:23] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[21:38:29] [ServerMain/INFO]: Loaded 1373 recipes
+[21:38:29] [ServerMain/INFO]: Loaded 1484 advancements
+[21:38:29] [Server thread/INFO]: Starting minecraft server version 1.21.5
+[21:38:29] [Server thread/INFO]: Loading properties
+[21:38:29] [Server thread/INFO]: Default game type: SURVIVAL
+[21:38:29] [Server thread/INFO]: Generating keypair
+[21:38:30] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:38:30] [Server thread/INFO]: Using epoll channel type
+[21:38:30] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:38:30] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[21:38:30] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21:38:30] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:38:30] [Server thread/INFO]: Preparing level "INTEGRAL"
+[21:38:31] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:38:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:38:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:38:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:38:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:38:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:38:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:38:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:38:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:38:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:38:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:38:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:38:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:38:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:38:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:38:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:38:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:38:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:38:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:38:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:38:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:38:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:38:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:38:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:38:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:38:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:38:43] [Server thread/INFO]: Time elapsed: 12238 ms
+[21:38:43] [Server thread/INFO]: Done (12.917s)! For help, type "help"
+[21:39:42] [Server thread/INFO]: Luiing_Blue[/100.87.58.84:50809] logged in with entity id 6 at (-1387.2492628977193, 72.0, 1759.3454423088992)
+[21:39:42] [Server thread/INFO]: Luiing_Blue joined the game
+[21:39:42] [Server thread/WARN]: UUID of added entity already exists: ctn['Thrown Ender Pearl'/8, l='ServerLevel[world]', x=-486.71, y=62.04, z=-221.57]
+[21:39:42] [Server thread/WARN]: Failed to spawn player ender pearl in level (ResourceKey[minecraft:dimension / minecraft:overworld]), skipping
+[21:39:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2451ms or 49 ticks behind
+[21:43:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
