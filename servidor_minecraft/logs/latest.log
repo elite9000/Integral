@@ -41,3 +41,15 @@
 [15:52:56] [Server thread/INFO]: Time elapsed: 12168 ms
 [15:52:56] [Server thread/INFO]: Done (12.796s)! For help, type "help"
 [15:54:56] [Server thread/INFO]: Server empty for 120 seconds, pausing
+[16:03:06] [Server thread/INFO]: elite9007[/100.88.155.70:49975] logged in with entity id 7 at (-781.3000000119209, 192.0, -491.30000001192093)
+[16:03:06] [Server thread/INFO]: elite9007 joined the game
+[16:03:06] [Server thread/WARN]: UUID of added entity already exists: ctn['Thrown Ender Pearl'/9, l='ServerLevel[world]', x=-484.54, y=61.99, z=-221.68]
+[16:03:06] [Server thread/WARN]: Failed to spawn player ender pearl in level (ResourceKey[minecraft:dimension / minecraft:overworld]), skipping
+[16:06:51] [Server thread/INFO]: elite9007 lost connection: Disconnected
+[16:06:51] [Server thread/INFO]: elite9007 left the game
+[16:06:52] [Server thread/WARN]: handleDisconnection() called twice
+[16:08:51] [Server thread/INFO]: Server empty for 120 seconds, pausing
+[16:10:06] [Server thread/INFO]: elite9007[/100.88.155.70:49937] logged in with entity id 2033 at (-857.2898529640474, 61.12357328247873, -410.69999998807907)
+[16:10:06] [Server thread/INFO]: elite9007 joined the game
+[16:10:06] [Server thread/WARN]: UUID of added entity already exists: ctn['Thrown Ender Pearl'/2035, l='ServerLevel[world]', x=-484.54, y=61.99, z=-221.68]
+[16:10:06] [Server thread/WARN]: Failed to spawn player ender pearl in level (ResourceKey[minecraft:dimension / minecraft:overworld]), skipping
