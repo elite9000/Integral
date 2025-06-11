@@ -53,3 +53,14 @@
 [16:10:06] [Server thread/INFO]: elite9007 joined the game
 [16:10:06] [Server thread/WARN]: UUID of added entity already exists: ctn['Thrown Ender Pearl'/2035, l='ServerLevel[world]', x=-484.54, y=61.99, z=-221.68]
 [16:10:06] [Server thread/WARN]: Failed to spawn player ender pearl in level (ResourceKey[minecraft:dimension / minecraft:overworld]), skipping
+[16:13:36] [Server thread/INFO]: Villager cru['Librarian'/2592, l='ServerLevel[world]', x=-491.53, y=67.05, z=-301.70] died, message: 'Librarian drowned'
+[16:25:37] [Server thread/INFO]: elite9007 lost connection: Timed out
+[16:25:37] [Server thread/INFO]: elite9007 left the game
+[16:27:37] [Server thread/INFO]: Server empty for 120 seconds, pausing
+[16:28:40] [Server thread/INFO]: elite9007[/100.88.155.70:49955] logged in with entity id 12734 at (246.91016634256223, 1.0, 0.2860793052099972)
+[16:28:40] [Server thread/INFO]: elite9007 joined the game
+[16:28:40] [Server thread/WARN]: UUID of added entity already exists: ctn['Thrown Ender Pearl'/12736, l='ServerLevel[world]', x=-484.54, y=61.99, z=-221.68]
+[16:28:40] [Server thread/WARN]: Failed to spawn player ender pearl in level (ResourceKey[minecraft:dimension / minecraft:overworld]), skipping
+[16:30:19] [Server thread/INFO]: elite9007 lost connection: Disconnected
+[16:30:19] [Server thread/INFO]: elite9007 left the game
+[16:32:19] [Server thread/INFO]: Server empty for 120 seconds, pausing
