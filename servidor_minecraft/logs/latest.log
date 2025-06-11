@@ -64,3 +64,6 @@
 [16:30:19] [Server thread/INFO]: elite9007 lost connection: Disconnected
 [16:30:19] [Server thread/INFO]: elite9007 left the game
 [16:32:19] [Server thread/INFO]: Server empty for 120 seconds, pausing
+[16:33:26] [Server thread/INFO]: elite9007[/100.88.155.70:49933] logged in with entity id 13192 at (248.08842335287852, 1.0, 0.4913319282597514)
+[16:33:26] [Server thread/INFO]: elite9007 joined the game
+[16:33:26] [Server thread/WARN]: UUID of added entity already exists: ctn['Thrown Ender Pearl'/13237, l='ServerLevel[world]', x=-484.54, y=62.06, z=-221.68]
