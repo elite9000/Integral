@@ -1,81 +1,73 @@
-[00:07:19] [Server thread/INFO]: elite9007[/100.88.155.70:58679] logged in with entity id 69850 at (-855.5655200000134, 52.174516309931185, -403.2930762326967)
-[00:07:19] [Server thread/INFO]: elite9007 joined the game
-[00:07:19] [Server thread/WARN]: UUID of added entity already exists: ctn['Thrown Ender Pearl'/69852, l='ServerLevel[world]', x=-484.54, y=61.99, z=-221.68]
-[00:07:19] [Server thread/WARN]: Failed to spawn player ender pearl in level (ResourceKey[minecraft:dimension / minecraft:overworld]), skipping
-[00:07:29] [Server thread/INFO]: [Not Secure] <Luiing_Blue> sigue o no?
-[00:07:32] [Server thread/INFO]: [Not Secure] <elite9007> si
-[00:07:49] [Server thread/INFO]: [Not Secure] <Luiing_Blue> elpillager ve lo que es?
-[00:09:44] [Server thread/WARN]: Luiing_Blue moved wrongly!
-[00:09:53] [Server thread/INFO]: [Not Secure] <Luiing_Blue> where are you manniga?
-[00:10:26] [Server thread/INFO]: [Not Secure] <elite9007> sisa
-[00:10:26] [Server thread/INFO]: [Not Secure] <Luiing_Blue> 4faros
-[00:10:29] [Server thread/INFO]: [Not Secure] <Luiing_Blue> waos
-[00:10:46] [Server thread/INFO]: [Not Secure] <elite9007> deja
-[00:10:46] [Server thread/INFO]: [Not Secure] <elite9007> u
-[00:10:49] [Server thread/INFO]: [Not Secure] <Luiing_Blue> u
-[00:10:49] [Server thread/INFO]: [Not Secure] <elite9007> invento
-[00:10:50] [Server thread/INFO]: [Not Secure] <Luiing_Blue> u
-[00:10:51] [Server thread/INFO]: [Not Secure] <Luiing_Blue> u
-[00:10:52] [Server thread/INFO]: [Not Secure] <elite9007> tu
-[00:10:54] [Server thread/INFO]: [Not Secure] <elite9007> mlp
-[00:10:55] [Server thread/INFO]: [Not Secure] <Luiing_Blue> KDJASKDJASD
-[00:10:56] [Server thread/INFO]: [Not Secure] <elite9007> KJASJKDAJKSDKJASD
-[00:11:30] [Server thread/INFO]: [Not Secure] <Luiing_Blue> el pillager vendra a labase?
-[00:14:14] [Server thread/INFO]: [Not Secure] <Luiing_Blue> zzzzzzzzzzzzzzzzzz
-[00:14:21] [Server thread/INFO]: elite9007 lost connection: Disconnected
-[00:14:21] [Server thread/INFO]: elite9007 left the game
-[00:16:06] [Server thread/WARN]: Luiing_Blue moved wrongly!
-[00:16:06] [Server thread/WARN]: Luiing_Blue moved wrongly!
-[00:16:06] [Server thread/WARN]: Luiing_Blue moved wrongly!
-[00:26:25] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-498, y=47, z=-172} iw{x=-498, y=48, z=-171}
-[00:26:25] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-498, y=47, z=-172} iw{x=-498, y=48, z=-171}
-[00:26:25] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-498, y=47, z=-172} iw{x=-498, y=48, z=-171}
-[00:26:25] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-498, y=47, z=-172} iw{x=-498, y=48, z=-171}
-[00:26:31] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-498, y=38, z=-173} iw{x=-498, y=38, z=-172}
-[00:26:31] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-498, y=38, z=-173} iw{x=-498, y=38, z=-172}
-[01:00:36] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-462, y=59, z=-166} iw{x=-462, y=57, z=-167}
-[01:00:36] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-462, y=59, z=-166} iw{x=-462, y=57, z=-167}
-[01:00:37] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-462, y=56, z=-166} iw{x=-462, y=54, z=-167}
-[01:00:37] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-462, y=56, z=-166} iw{x=-462, y=54, z=-167}
-[01:00:39] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-462, y=54, z=-166} iw{x=-462, y=52, z=-168}
-[01:00:39] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-462, y=54, z=-166} iw{x=-462, y=52, z=-168}
-[01:00:40] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-462, y=50, z=-168} iw{x=-462, y=50, z=-167}
-[01:00:40] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-462, y=50, z=-168} iw{x=-462, y=50, z=-167}
-[01:00:42] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-462, y=49, z=-167} iw{x=-462, y=46, z=-167}
-[01:00:42] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-462, y=49, z=-167} iw{x=-462, y=46, z=-167}
-[01:00:42] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-462, y=46, z=-168} iw{x=-462, y=45, z=-167}
-[01:00:42] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-462, y=46, z=-168} iw{x=-462, y=45, z=-167}
-[01:00:42] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-462, y=46, z=-168} iw{x=-462, y=45, z=-168}
-[01:00:42] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-462, y=46, z=-168} iw{x=-462, y=45, z=-168}
-[01:00:43] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-462, y=46, z=-168} iw{x=-462, y=44, z=-168}
-[01:00:43] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-462, y=46, z=-168} iw{x=-462, y=44, z=-168}
-[01:00:43] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-462, y=43, z=-167} iw{x=-462, y=43, z=-168}
-[01:00:44] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-462, y=43, z=-167} iw{x=-462, y=43, z=-168}
-[01:00:44] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-462, y=43, z=-167} iw{x=-462, y=43, z=-168}
-[01:00:44] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-462, y=42, z=-168} iw{x=-462, y=41, z=-167}
-[01:00:44] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-462, y=42, z=-168} iw{x=-462, y=41, z=-167}
-[01:00:44] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-462, y=41, z=-168} iw{x=-462, y=40, z=-167}
-[01:00:44] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-462, y=41, z=-168} iw{x=-462, y=40, z=-167}
-[01:00:45] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-462, y=41, z=-168} iw{x=-462, y=40, z=-168}
-[01:00:45] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-462, y=41, z=-168} iw{x=-462, y=40, z=-168}
-[01:00:45] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-462, y=41, z=-168} iw{x=-462, y=40, z=-168}
-[01:00:45] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-462, y=41, z=-168} iw{x=-462, y=40, z=-168}
-[01:00:45] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-462, y=41, z=-168} iw{x=-462, y=40, z=-168}
-[01:00:45] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-462, y=41, z=-168} iw{x=-462, y=40, z=-168}
-[01:00:48] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-462, y=36, z=-167} iw{x=-462, y=35, z=-168}
-[01:00:48] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-462, y=36, z=-167} iw{x=-462, y=35, z=-168}
-[01:00:48] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-462, y=36, z=-167} iw{x=-462, y=35, z=-168}
-[01:00:52] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-462, y=29, z=-167} iw{x=-462, y=29, z=-168}
-[01:00:52] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-462, y=29, z=-167} iw{x=-462, y=29, z=-168}
-[01:00:52] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-462, y=29, z=-167} iw{x=-462, y=29, z=-168}
-[01:00:52] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-462, y=29, z=-167} iw{x=-462, y=29, z=-168}
-[01:01:00] [Server thread/WARN]: Luiing_Blue moved wrongly!
-[01:01:09] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-462, y=56, z=-179} iw{x=-462, y=54, z=-178}
-[01:01:09] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-462, y=56, z=-179} iw{x=-462, y=54, z=-178}
-[01:01:09] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-462, y=55, z=-179} iw{x=-462, y=54, z=-179}
-[01:01:09] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-462, y=55, z=-179} iw{x=-462, y=54, z=-179}
-[01:01:09] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-462, y=55, z=-179} iw{x=-462, y=54, z=-179}
-[01:01:14] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-462, y=48, z=-178} iw{x=-462, y=48, z=-179}
-[01:01:14] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-462, y=48, z=-178} iw{x=-462, y=48, z=-179}
-[01:01:19] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-462, y=41, z=-179} iw{x=-462, y=40, z=-179}
-[01:01:19] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-462, y=41, z=-179} iw{x=-462, y=40, z=-179}
+[01:55:07] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[01:55:18] [ServerMain/INFO]: Loaded 1373 recipes
+[01:55:18] [ServerMain/INFO]: Loaded 1484 advancements
+[01:55:18] [Server thread/INFO]: Starting minecraft server version 1.21.5
+[01:55:18] [Server thread/INFO]: Loading properties
+[01:55:18] [Server thread/INFO]: Default game type: SURVIVAL
+[01:55:18] [Server thread/INFO]: Generating keypair
+[01:55:19] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:55:19] [Server thread/INFO]: Using epoll channel type
+[01:55:19] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:55:19] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:55:19] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:55:19] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:55:20] [Server thread/INFO]: Preparing level "INTEGRAL"
+[01:55:21] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:55:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:55:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:55:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:55:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:55:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:55:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:55:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:55:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:55:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:55:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:55:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:55:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:55:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:55:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:55:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:55:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:55:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:55:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:55:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:55:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:55:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:55:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:55:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:55:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:55:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:55:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:55:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:55:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:55:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:55:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:55:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:55:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:55:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:55:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:55:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:55:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:55:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:55:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:55:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:55:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:55:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:55:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:55:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:55:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:55:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:55:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:55:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:55:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:55:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:55:45] [Server thread/INFO]: Time elapsed: 24565 ms
+[01:55:45] [Server thread/INFO]: Done (25.688s)! For help, type "help"
+[01:55:51] [Server thread/INFO]: elite9007[/100.88.155.70:62055] logged in with entity id 7 at (-473.77580424591616, 88.82711731432457, -239.2703997934917)
+[01:55:51] [Server thread/INFO]: elite9007 joined the game
+[01:55:51] [Server thread/WARN]: UUID of added entity already exists: ctn['Thrown Ender Pearl'/9, l='ServerLevel[world]', x=-484.54, y=61.99, z=-221.68]
+[01:55:51] [Server thread/WARN]: Failed to spawn player ender pearl in level (ResourceKey[minecraft:dimension / minecraft:overworld]), skipping
+[01:55:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2110ms or 42 ticks behind
+[01:56:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4988ms or 99 ticks behind
+[01:58:50] [Server thread/WARN]: elite9007 moved wrongly!
